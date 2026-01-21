@@ -1,0 +1,2174 @@
+Supplier,Region,Year,Material_Type,Cost_per_kWh
+CATL,North America,2022,Lithium-Ion,151.65
+CATL,North America,2022,Lithium-Ion,145.31
+CATL,North America,2022,Lithium-Ion,152.64
+CATL,North America,2022,Lithium-Ion,157.17
+CATL,North America,2022,Lithium-Ion,151.72
+CATL,Europe,2022,Lithium-Ion,137.77
+CATL,North America,2022,Lithium-Ion,157.95
+CATL,Asia,2022,Lithium-Ion,139.47
+CATL,North America,2022,Lithium-Ion,148.71
+CATL,North America,2022,Lithium-Ion,154.96
+CATL,North America,2022,Lithium-Ion,145.28
+CATL,Asia,2022,Lithium-Ion,145.73
+CATL,North America,2022,Lithium-Ion,150.41
+CATL,Europe,2022,LFP,123.98
+CATL,North America,2022,LFP,123.24
+CATL,North America,2022,LFP,132.89
+CATL,North America,2022,LFP,128.15
+CATL,North America,2022,LFP,131.35
+CATL,North America,2022,LFP,134.16
+CATL,Asia,2022,LFP,122.38
+CATL,Asia,2022,LFP,114.64
+CATL,North America,2022,LFP,127.77
+CATL,North America,2022,LFP,122.22
+CATL,North America,2022,LFP,133.57
+CATL,North America,2022,LFP,129.56
+CATL,North America,2022,LFP,125.95
+CATL,North America,2022,LFP,128.7
+CATL,Asia,2022,LFP,123.92
+CATL,North America,2022,LFP,134.63
+CATL,North America,2022,LFP,135.0
+CATL,North America,2022,LFP,130.39
+CATL,North America,2022,LFP,122.84
+CATL,North America,2022,NMC,169.02
+CATL,North America,2022,NMC,174.47
+CATL,North America,2022,NMC,159.88
+CATL,North America,2022,NMC,170.46
+CATL,Europe,2022,NMC,167.47
+CATL,North America,2022,NMC,157.3
+CATL,North America,2022,NMC,165.26
+CATL,North America,2022,NMC,170.54
+CATL,Europe,2022,NMC,161.52
+CATL,North America,2022,NMC,167.21
+CATL,North America,2022,NMC,170.29
+CATL,North America,2022,NMC,161.91
+CATL,North America,2022,NMC,158.47
+CATL,North America,2022,NMC,160.27
+CATL,North America,2022,NMC,163.48
+CATL,North America,2022,NMC,159.1
+CATL,North America,2022,Solid-State,184.65
+CATL,North America,2022,Solid-State,191.52
+CATL,Europe,2022,Solid-State,174.43
+CATL,Asia,2022,Solid-State,183.23
+CATL,North America,2022,Solid-State,188.06
+CATL,Europe,2022,Solid-State,186.67
+CATL,North America,2022,Solid-State,194.69
+CATL,North America,2022,Solid-State,192.17
+CATL,North America,2022,Solid-State,203.65
+CATL,North America,2022,Solid-State,199.29
+CATL,North America,2022,Solid-State,186.14
+CATL,North America,2022,Solid-State,189.5
+CATL,Europe,2022,Solid-State,183.92
+CATL,Europe,2022,Solid-State,178.75
+CATL,North America,2022,Solid-State,197.93
+CATL,North America,2022,Solid-State,188.06
+CATL,North America,2022,Solid-State,196.9
+CATL,North America,2022,Solid-State,198.15
+CATL,North America,2022,Solid-State,201.21
+CATL,Asia,2023,Lithium-Ion,135.61
+CATL,North America,2023,Lithium-Ion,142.73
+CATL,North America,2023,Lithium-Ion,142.15
+CATL,North America,2023,Lithium-Ion,148.75
+CATL,North America,2023,Lithium-Ion,144.25
+CATL,Asia,2023,Lithium-Ion,139.03
+CATL,North America,2023,Lithium-Ion,158.36
+CATL,North America,2023,Lithium-Ion,149.73
+CATL,North America,2023,Lithium-Ion,147.06
+CATL,North America,2023,Lithium-Ion,141.57
+CATL,Asia,2023,Lithium-Ion,147.87
+CATL,Europe,2023,Lithium-Ion,150.51
+CATL,North America,2023,Lithium-Ion,141.1
+CATL,North America,2023,Lithium-Ion,140.74
+CATL,North America,2023,Lithium-Ion,142.25
+CATL,North America,2023,Lithium-Ion,154.21
+CATL,North America,2023,Lithium-Ion,154.25
+CATL,North America,2023,Lithium-Ion,156.21
+CATL,North America,2023,Lithium-Ion,141.05
+CATL,Europe,2023,LFP,125.42
+CATL,North America,2023,LFP,122.04
+CATL,North America,2023,LFP,121.83
+CATL,North America,2023,LFP,122.59
+CATL,Asia,2023,LFP,116.8
+CATL,North America,2023,LFP,135.32
+CATL,North America,2023,LFP,120.07
+CATL,North America,2023,LFP,125.41
+CATL,North America,2023,LFP,122.76
+CATL,North America,2023,LFP,134.09
+CATL,Asia,2023,LFP,118.5
+CATL,North America,2023,LFP,127.79
+CATL,North America,2023,NMC,174.35
+CATL,North America,2023,NMC,166.35
+CATL,North America,2023,NMC,163.26
+CATL,Asia,2023,NMC,148.8
+CATL,North America,2023,NMC,157.28
+CATL,Europe,2023,NMC,169.82
+CATL,North America,2023,NMC,165.84
+CATL,North America,2023,NMC,170.94
+CATL,North America,2023,NMC,156.67
+CATL,Asia,2023,NMC,151.78
+CATL,North America,2023,NMC,173.24
+CATL,North America,2023,NMC,174.67
+CATL,Asia,2023,NMC,151.89
+CATL,North America,2023,NMC,174.03
+CATL,North America,2023,NMC,170.94
+CATL,North America,2023,NMC,163.2
+CATL,North America,2023,NMC,157.87
+CATL,North America,2023,NMC,169.67
+CATL,North America,2023,Solid-State,179.63
+CATL,North America,2023,Solid-State,184.16
+CATL,North America,2023,Solid-State,196.88
+CATL,North America,2023,Solid-State,200.12
+CATL,North America,2023,Solid-State,179.63
+CATL,Asia,2023,Solid-State,183.37
+CATL,North America,2023,Solid-State,198.61
+CATL,North America,2023,Solid-State,194.97
+CATL,North America,2023,Solid-State,187.52
+CATL,North America,2023,Solid-State,182.59
+CATL,North America,2023,Solid-State,188.97
+CATL,North America,2023,Solid-State,199.91
+CATL,North America,2023,Solid-State,186.51
+CATL,North America,2023,Solid-State,195.45
+CATL,Asia,2023,Solid-State,187.97
+CATL,North America,2023,Solid-State,194.06
+CATL,North America,2023,Solid-State,180.47
+CATL,North America,2023,Solid-State,201.2
+CATL,North America,2024,Lithium-Ion,181.59
+CATL,North America,2024,Lithium-Ion,161.49
+CATL,North America,2024,Lithium-Ion,181.66
+CATL,Asia,2024,Lithium-Ion,161.07
+CATL,North America,2024,Lithium-Ion,171.23
+CATL,North America,2024,Lithium-Ion,161.13
+CATL,North America,2024,Lithium-Ion,172.94
+CATL,North America,2024,Lithium-Ion,165.52
+CATL,North America,2024,Lithium-Ion,173.48
+CATL,Europe,2024,Lithium-Ion,175.56
+CATL,North America,2024,Lithium-Ion,164.75
+CATL,North America,2024,Lithium-Ion,161.12
+CATL,North America,2024,LFP,138.5
+CATL,North America,2024,LFP,137.8
+CATL,Asia,2024,LFP,136.67
+CATL,North America,2024,LFP,139.46
+CATL,North America,2024,LFP,142.25
+CATL,North America,2024,LFP,142.97
+CATL,North America,2024,LFP,155.05
+CATL,North America,2024,LFP,156.0
+CATL,Europe,2024,LFP,143.22
+CATL,North America,2024,LFP,154.03
+CATL,North America,2024,LFP,142.29
+CATL,North America,2024,LFP,150.22
+CATL,North America,2024,LFP,144.55
+CATL,Asia,2024,LFP,138.93
+CATL,North America,2024,LFP,146.93
+CATL,North America,2024,LFP,153.58
+CATL,North America,2024,NMC,181.29
+CATL,North America,2024,NMC,199.27
+CATL,North America,2024,NMC,192.56
+CATL,North America,2024,NMC,190.68
+CATL,North America,2024,NMC,195.97
+CATL,North America,2024,NMC,194.0
+CATL,North America,2024,NMC,199.0
+CATL,North America,2024,NMC,195.19
+CATL,North America,2024,NMC,200.07
+CATL,North America,2024,NMC,182.68
+CATL,North America,2024,NMC,182.69
+CATL,North America,2024,NMC,199.04
+CATL,North America,2024,NMC,197.17
+CATL,North America,2024,NMC,186.42
+CATL,North America,2024,NMC,189.95
+CATL,Europe,2024,NMC,192.32
+CATL,North America,2024,NMC,198.43
+CATL,Asia,2024,Solid-State,202.77
+CATL,North America,2024,Solid-State,223.65
+CATL,North America,2024,Solid-State,229.44
+CATL,North America,2024,Solid-State,232.46
+CATL,North America,2024,Solid-State,213.63
+CATL,North America,2024,Solid-State,211.49
+CATL,Europe,2024,Solid-State,209.4
+CATL,North America,2024,Solid-State,233.32
+CATL,North America,2024,Solid-State,219.42
+CATL,North America,2024,Solid-State,215.57
+CATL,North America,2024,Solid-State,223.73
+CATL,North America,2024,Solid-State,224.61
+CATL,Europe,2024,Solid-State,218.75
+CATL,Europe,2024,Solid-State,203.62
+CATL,North America,2024,Solid-State,207.28
+CATL,North America,2024,Solid-State,209.65
+CATL,North America,2024,Solid-State,216.51
+CATL,North America,2024,Solid-State,221.52
+CATL,Asia,2024,Solid-State,217.29
+CATL,North America,2025,Lithium-Ion,157.32
+CATL,North America,2025,Lithium-Ion,141.34
+CATL,North America,2025,Lithium-Ion,158.15
+CATL,North America,2025,Lithium-Ion,153.48
+CATL,North America,2025,Lithium-Ion,141.48
+CATL,North America,2025,Lithium-Ion,149.05
+CATL,North America,2025,Lithium-Ion,150.43
+CATL,North America,2025,Lithium-Ion,155.17
+CATL,North America,2025,Lithium-Ion,146.55
+CATL,North America,2025,Lithium-Ion,141.12
+CATL,North America,2025,Lithium-Ion,141.81
+CATL,North America,2025,Lithium-Ion,146.37
+CATL,North America,2025,LFP,125.08
+CATL,Europe,2025,LFP,121.85
+CATL,North America,2025,LFP,121.83
+CATL,Asia,2025,LFP,112.33
+CATL,North America,2025,LFP,120.6
+CATL,North America,2025,LFP,132.17
+CATL,North America,2025,LFP,128.11
+CATL,North America,2025,LFP,122.04
+CATL,North America,2025,LFP,128.93
+CATL,Asia,2025,LFP,113.03
+CATL,North America,2025,LFP,119.89
+CATL,North America,2025,LFP,136.03
+CATL,North America,2025,LFP,130.78
+CATL,North America,2025,LFP,129.78
+CATL,Europe,2025,LFP,128.69
+CATL,North America,2025,LFP,124.75
+CATL,Europe,2025,LFP,126.14
+CATL,North America,2025,NMC,175.3
+CATL,North America,2025,NMC,162.64
+CATL,North America,2025,NMC,158.81
+CATL,North America,2025,NMC,157.25
+CATL,Europe,2025,NMC,166.76
+CATL,Europe,2025,NMC,150.58
+CATL,North America,2025,NMC,174.21
+CATL,North America,2025,NMC,163.11
+CATL,North America,2025,NMC,164.33
+CATL,Europe,2025,NMC,166.16
+CATL,North America,2025,NMC,174.38
+CATL,North America,2025,NMC,169.02
+CATL,North America,2025,NMC,159.61
+CATL,North America,2025,NMC,164.02
+CATL,North America,2025,NMC,155.0
+CATL,North America,2025,Solid-State,199.25
+CATL,North America,2025,Solid-State,181.56
+CATL,North America,2025,Solid-State,187.18
+CATL,North America,2025,Solid-State,194.75
+CATL,North America,2025,Solid-State,180.55
+CATL,North America,2025,Solid-State,193.87
+CATL,North America,2025,Solid-State,197.66
+CATL,North America,2025,Solid-State,197.55
+CATL,Asia,2025,Solid-State,171.95
+CATL,North America,2025,Solid-State,184.56
+CATL,North America,2025,Solid-State,187.16
+CATL,North America,2025,Solid-State,198.27
+CATL,North America,2025,Solid-State,202.97
+CATL,Asia,2025,Solid-State,176.4
+CATL,Europe,2025,Solid-State,191.51
+CATL,North America,2026,Lithium-Ion,143.52
+CATL,North America,2026,Lithium-Ion,142.72
+CATL,North America,2026,Lithium-Ion,149.28
+CATL,North America,2026,Lithium-Ion,153.97
+CATL,North America,2026,Lithium-Ion,152.48
+CATL,North America,2026,Lithium-Ion,151.4
+CATL,Europe,2026,Lithium-Ion,139.35
+CATL,Europe,2026,Lithium-Ion,135.07
+CATL,Asia,2026,Lithium-Ion,137.52
+CATL,North America,2026,Lithium-Ion,136.82
+CATL,North America,2026,Lithium-Ion,151.67
+CATL,Asia,2026,Lithium-Ion,138.4
+CATL,Asia,2026,Lithium-Ion,128.64
+CATL,North America,2026,Lithium-Ion,153.12
+CATL,North America,2026,LFP,126.46
+CATL,North America,2026,LFP,119.21
+CATL,North America,2026,LFP,125.5
+CATL,Europe,2026,LFP,117.95
+CATL,North America,2026,LFP,126.07
+CATL,North America,2026,LFP,124.77
+CATL,North America,2026,LFP,126.48
+CATL,North America,2026,LFP,118.85
+CATL,Europe,2026,LFP,124.79
+CATL,North America,2026,LFP,131.29
+CATL,Asia,2026,LFP,123.15
+CATL,North America,2026,LFP,117.68
+CATL,Europe,2026,NMC,154.16
+CATL,North America,2026,NMC,153.26
+CATL,North America,2026,NMC,154.91
+CATL,North America,2026,NMC,165.62
+CATL,North America,2026,NMC,170.16
+CATL,North America,2026,NMC,161.76
+CATL,North America,2026,NMC,168.55
+CATL,North America,2026,NMC,152.8
+CATL,Europe,2026,NMC,157.95
+CATL,North America,2026,NMC,165.52
+CATL,North America,2026,NMC,168.4
+CATL,North America,2026,NMC,165.12
+CATL,North America,2026,NMC,151.92
+CATL,North America,2026,NMC,155.96
+CATL,Europe,2026,NMC,156.41
+CATL,North America,2026,NMC,168.38
+CATL,North America,2026,NMC,160.65
+CATL,North America,2026,Solid-State,194.97
+CATL,North America,2026,Solid-State,175.86
+CATL,North America,2026,Solid-State,189.67
+CATL,Asia,2026,Solid-State,173.4
+CATL,North America,2026,Solid-State,184.6
+CATL,North America,2026,Solid-State,177.3
+CATL,North America,2026,Solid-State,183.05
+CATL,Asia,2026,Solid-State,179.85
+CATL,North America,2026,Solid-State,183.27
+CATL,North America,2026,Solid-State,182.0
+CATL,North America,2026,Solid-State,178.68
+CATL,North America,2026,Solid-State,197.01
+CATL,North America,2026,Solid-State,176.54
+CATL,North America,2026,Solid-State,194.78
+CATL,Asia,2026,Solid-State,168.9
+CATL,North America,2026,Solid-State,196.35
+LG Energy Solution,Europe,2022,Lithium-Ion,138.34
+LG Energy Solution,Asia,2022,Lithium-Ion,132.3
+LG Energy Solution,Asia,2022,Lithium-Ion,146.67
+LG Energy Solution,Europe,2022,Lithium-Ion,135.9
+LG Energy Solution,Europe,2022,Lithium-Ion,139.4
+LG Energy Solution,Europe,2022,Lithium-Ion,139.98
+LG Energy Solution,Asia,2022,Lithium-Ion,130.68
+LG Energy Solution,Europe,2022,Lithium-Ion,142.02
+LG Energy Solution,Europe,2022,Lithium-Ion,140.12
+LG Energy Solution,Asia,2022,Lithium-Ion,131.87
+LG Energy Solution,Europe,2022,Lithium-Ion,153.75
+LG Energy Solution,Asia,2022,Lithium-Ion,131.39
+LG Energy Solution,Asia,2022,Lithium-Ion,147.55
+LG Energy Solution,Europe,2022,Lithium-Ion,138.41
+LG Energy Solution,Europe,2022,Lithium-Ion,141.85
+LG Energy Solution,Asia,2022,LFP,111.8
+LG Energy Solution,Asia,2022,LFP,125.64
+LG Energy Solution,Europe,2022,LFP,128.07
+LG Energy Solution,North America,2022,LFP,127.46
+LG Energy Solution,North America,2022,LFP,126.89
+LG Energy Solution,Asia,2022,LFP,113.61
+LG Energy Solution,Europe,2022,LFP,128.42
+LG Energy Solution,Europe,2022,LFP,126.96
+LG Energy Solution,Europe,2022,LFP,116.61
+LG Energy Solution,Asia,2022,LFP,119.43
+LG Energy Solution,Europe,2022,LFP,120.38
+LG Energy Solution,Europe,2022,LFP,121.39
+LG Energy Solution,Europe,2022,LFP,121.77
+LG Energy Solution,Europe,2022,LFP,123.66
+LG Energy Solution,North America,2022,NMC,161.14
+LG Energy Solution,Europe,2022,NMC,151.35
+LG Energy Solution,Europe,2022,NMC,161.56
+LG Energy Solution,Europe,2022,NMC,156.62
+LG Energy Solution,Europe,2022,NMC,151.03
+LG Energy Solution,Europe,2022,NMC,157.51
+LG Energy Solution,North America,2022,NMC,161.99
+LG Energy Solution,Europe,2022,NMC,152.96
+LG Energy Solution,Europe,2022,NMC,164.59
+LG Energy Solution,Europe,2022,NMC,162.05
+LG Energy Solution,Europe,2022,NMC,166.6
+LG Energy Solution,Europe,2022,NMC,167.56
+LG Energy Solution,Europe,2022,NMC,169.69
+LG Energy Solution,Europe,2022,NMC,161.23
+LG Energy Solution,North America,2022,NMC,157.73
+LG Energy Solution,Europe,2022,NMC,169.37
+LG Energy Solution,Europe,2022,NMC,158.82
+LG Energy Solution,North America,2022,NMC,161.21
+LG Energy Solution,North America,2022,NMC,168.15
+LG Energy Solution,Europe,2022,Solid-State,192.12
+LG Energy Solution,North America,2022,Solid-State,180.37
+LG Energy Solution,Europe,2022,Solid-State,183.97
+LG Energy Solution,Europe,2022,Solid-State,189.54
+LG Energy Solution,Europe,2022,Solid-State,191.46
+LG Energy Solution,Europe,2022,Solid-State,187.45
+LG Energy Solution,Europe,2022,Solid-State,190.51
+LG Energy Solution,North America,2022,Solid-State,185.32
+LG Energy Solution,Europe,2022,Solid-State,176.51
+LG Energy Solution,Europe,2022,Solid-State,177.51
+LG Energy Solution,Asia,2022,Solid-State,177.37
+LG Energy Solution,Europe,2022,Solid-State,188.95
+LG Energy Solution,Asia,2022,Solid-State,170.92
+LG Energy Solution,Europe,2022,Solid-State,188.89
+LG Energy Solution,Europe,2022,Solid-State,193.06
+LG Energy Solution,Europe,2023,Lithium-Ion,137.47
+LG Energy Solution,Europe,2023,Lithium-Ion,141.15
+LG Energy Solution,North America,2023,Lithium-Ion,151.28
+LG Energy Solution,Europe,2023,Lithium-Ion,139.32
+LG Energy Solution,Europe,2023,Lithium-Ion,146.44
+LG Energy Solution,Europe,2023,Lithium-Ion,146.25
+LG Energy Solution,Europe,2023,Lithium-Ion,136.62
+LG Energy Solution,Europe,2023,Lithium-Ion,144.28
+LG Energy Solution,North America,2023,Lithium-Ion,141.12
+LG Energy Solution,North America,2023,Lithium-Ion,158.66
+LG Energy Solution,Europe,2023,Lithium-Ion,136.97
+LG Energy Solution,Europe,2023,Lithium-Ion,143.0
+LG Energy Solution,Europe,2023,Lithium-Ion,141.71
+LG Energy Solution,Europe,2023,LFP,128.18
+LG Energy Solution,Europe,2023,LFP,127.99
+LG Energy Solution,Europe,2023,LFP,131.45
+LG Energy Solution,Europe,2023,LFP,123.26
+LG Energy Solution,Europe,2023,LFP,129.51
+LG Energy Solution,Europe,2023,LFP,125.48
+LG Energy Solution,Europe,2023,LFP,120.64
+LG Energy Solution,Europe,2023,LFP,125.4
+LG Energy Solution,Asia,2023,LFP,114.11
+LG Energy Solution,Asia,2023,LFP,122.95
+LG Energy Solution,Europe,2023,LFP,122.7
+LG Energy Solution,Europe,2023,LFP,127.47
+LG Energy Solution,Europe,2023,LFP,118.98
+LG Energy Solution,Europe,2023,LFP,120.41
+LG Energy Solution,Europe,2023,LFP,130.57
+LG Energy Solution,Europe,2023,NMC,154.17
+LG Energy Solution,Europe,2023,NMC,156.74
+LG Energy Solution,Europe,2023,NMC,152.27
+LG Energy Solution,Europe,2023,NMC,154.3
+LG Energy Solution,Europe,2023,NMC,169.54
+LG Energy Solution,Europe,2023,NMC,170.35
+LG Energy Solution,Europe,2023,NMC,156.76
+LG Energy Solution,Europe,2023,NMC,162.59
+LG Energy Solution,Europe,2023,NMC,162.84
+LG Energy Solution,North America,2023,NMC,159.06
+LG Energy Solution,Europe,2023,NMC,158.45
+LG Energy Solution,North America,2023,NMC,160.23
+LG Energy Solution,Europe,2023,NMC,165.0
+LG Energy Solution,Europe,2023,NMC,163.92
+LG Energy Solution,Europe,2023,NMC,168.8
+LG Energy Solution,Europe,2023,NMC,153.99
+LG Energy Solution,Europe,2023,NMC,167.98
+LG Energy Solution,Europe,2023,NMC,156.93
+LG Energy Solution,Europe,2023,Solid-State,180.17
+LG Energy Solution,Europe,2023,Solid-State,183.83
+LG Energy Solution,Europe,2023,Solid-State,182.09
+LG Energy Solution,Europe,2023,Solid-State,195.71
+LG Energy Solution,Europe,2023,Solid-State,180.79
+LG Energy Solution,Europe,2023,Solid-State,191.62
+LG Energy Solution,Europe,2023,Solid-State,174.62
+LG Energy Solution,Europe,2023,Solid-State,188.3
+LG Energy Solution,Europe,2023,Solid-State,175.27
+LG Energy Solution,Europe,2023,Solid-State,189.16
+LG Energy Solution,Europe,2023,Solid-State,198.12
+LG Energy Solution,Asia,2023,Solid-State,174.58
+LG Energy Solution,Europe,2023,Solid-State,188.01
+LG Energy Solution,Europe,2023,Solid-State,194.74
+LG Energy Solution,Europe,2024,Lithium-Ion,173.9
+LG Energy Solution,Europe,2024,Lithium-Ion,168.25
+LG Energy Solution,Europe,2024,Lithium-Ion,166.7
+LG Energy Solution,Europe,2024,Lithium-Ion,159.69
+LG Energy Solution,Europe,2024,Lithium-Ion,164.65
+LG Energy Solution,Europe,2024,Lithium-Ion,163.57
+LG Energy Solution,Europe,2024,Lithium-Ion,168.1
+LG Energy Solution,North America,2024,Lithium-Ion,171.8
+LG Energy Solution,Europe,2024,Lithium-Ion,165.78
+LG Energy Solution,Asia,2024,Lithium-Ion,153.71
+LG Energy Solution,Europe,2024,Lithium-Ion,175.1
+LG Energy Solution,Europe,2024,Lithium-Ion,167.99
+LG Energy Solution,Europe,2024,Lithium-Ion,164.18
+LG Energy Solution,North America,2024,Lithium-Ion,171.22
+LG Energy Solution,Europe,2024,Lithium-Ion,161.18
+LG Energy Solution,North America,2024,Lithium-Ion,160.63
+LG Energy Solution,Asia,2024,LFP,134.99
+LG Energy Solution,Europe,2024,LFP,145.46
+LG Energy Solution,Europe,2024,LFP,141.46
+LG Energy Solution,Europe,2024,LFP,147.8
+LG Energy Solution,Asia,2024,LFP,130.52
+LG Energy Solution,Europe,2024,LFP,149.52
+LG Energy Solution,Europe,2024,LFP,135.32
+LG Energy Solution,Europe,2024,LFP,150.21
+LG Energy Solution,North America,2024,LFP,151.95
+LG Energy Solution,Europe,2024,LFP,139.58
+LG Energy Solution,Europe,2024,LFP,137.08
+LG Energy Solution,Asia,2024,LFP,137.27
+LG Energy Solution,Europe,2024,LFP,146.25
+LG Energy Solution,North America,2024,LFP,148.08
+LG Energy Solution,Asia,2024,LFP,131.66
+LG Energy Solution,Europe,2024,NMC,189.3
+LG Energy Solution,Europe,2024,NMC,176.31
+LG Energy Solution,Europe,2024,NMC,179.27
+LG Energy Solution,Europe,2024,NMC,190.74
+LG Energy Solution,Europe,2024,NMC,195.05
+LG Energy Solution,Europe,2024,NMC,175.49
+LG Energy Solution,Europe,2024,NMC,174.99
+LG Energy Solution,North America,2024,NMC,183.67
+LG Energy Solution,Europe,2024,NMC,184.6
+LG Energy Solution,Europe,2024,NMC,178.22
+LG Energy Solution,Europe,2024,NMC,177.14
+LG Energy Solution,Europe,2024,NMC,172.92
+LG Energy Solution,Europe,2024,NMC,193.28
+LG Energy Solution,Europe,2024,NMC,194.21
+LG Energy Solution,Asia,2024,NMC,185.93
+LG Energy Solution,North America,2024,NMC,190.96
+LG Energy Solution,Europe,2024,Solid-State,205.23
+LG Energy Solution,Europe,2024,Solid-State,214.01
+LG Energy Solution,Europe,2024,Solid-State,204.09
+LG Energy Solution,Europe,2024,Solid-State,214.38
+LG Energy Solution,Europe,2024,Solid-State,213.87
+LG Energy Solution,Europe,2024,Solid-State,222.67
+LG Energy Solution,Europe,2024,Solid-State,223.14
+LG Energy Solution,North America,2024,Solid-State,218.52
+LG Energy Solution,Asia,2024,Solid-State,206.71
+LG Energy Solution,Europe,2024,Solid-State,209.93
+LG Energy Solution,Europe,2024,Solid-State,204.62
+LG Energy Solution,North America,2024,Solid-State,226.68
+LG Energy Solution,Europe,2024,Solid-State,207.95
+LG Energy Solution,Europe,2024,Solid-State,217.87
+LG Energy Solution,Europe,2024,Solid-State,204.22
+LG Energy Solution,Europe,2024,Solid-State,205.68
+LG Energy Solution,Europe,2025,Lithium-Ion,151.4
+LG Energy Solution,Europe,2025,Lithium-Ion,143.4
+LG Energy Solution,North America,2025,Lithium-Ion,146.1
+LG Energy Solution,Europe,2025,Lithium-Ion,144.18
+LG Energy Solution,Europe,2025,Lithium-Ion,150.53
+LG Energy Solution,North America,2025,Lithium-Ion,155.79
+LG Energy Solution,Europe,2025,Lithium-Ion,141.66
+LG Energy Solution,Europe,2025,Lithium-Ion,151.02
+LG Energy Solution,Europe,2025,Lithium-Ion,151.03
+LG Energy Solution,Europe,2025,Lithium-Ion,139.49
+LG Energy Solution,Europe,2025,Lithium-Ion,148.37
+LG Energy Solution,Europe,2025,Lithium-Ion,141.1
+LG Energy Solution,North America,2025,Lithium-Ion,155.67
+LG Energy Solution,Europe,2025,Lithium-Ion,145.13
+LG Energy Solution,Europe,2025,Lithium-Ion,148.25
+LG Energy Solution,Europe,2025,Lithium-Ion,139.32
+LG Energy Solution,Europe,2025,Lithium-Ion,147.05
+LG Energy Solution,Europe,2025,LFP,129.29
+LG Energy Solution,Europe,2025,LFP,123.73
+LG Energy Solution,Europe,2025,LFP,129.32
+LG Energy Solution,Europe,2025,LFP,129.98
+LG Energy Solution,Europe,2025,LFP,128.62
+LG Energy Solution,Europe,2025,LFP,120.79
+LG Energy Solution,Europe,2025,LFP,129.41
+LG Energy Solution,Europe,2025,LFP,120.71
+LG Energy Solution,Europe,2025,LFP,121.49
+LG Energy Solution,Europe,2025,LFP,122.85
+LG Energy Solution,Europe,2025,LFP,130.63
+LG Energy Solution,Europe,2025,LFP,127.95
+LG Energy Solution,Europe,2025,LFP,125.85
+LG Energy Solution,Europe,2025,LFP,125.69
+LG Energy Solution,Europe,2025,LFP,126.23
+LG Energy Solution,Europe,2025,LFP,127.72
+LG Energy Solution,Europe,2025,NMC,155.87
+LG Energy Solution,Europe,2025,NMC,169.71
+LG Energy Solution,Europe,2025,NMC,150.92
+LG Energy Solution,Europe,2025,NMC,163.59
+LG Energy Solution,Europe,2025,NMC,152.38
+LG Energy Solution,Europe,2025,NMC,151.69
+LG Energy Solution,Europe,2025,NMC,159.08
+LG Energy Solution,Europe,2025,NMC,153.11
+LG Energy Solution,Asia,2025,NMC,153.19
+LG Energy Solution,Europe,2025,NMC,160.97
+LG Energy Solution,Europe,2025,NMC,164.39
+LG Energy Solution,North America,2025,NMC,158.71
+LG Energy Solution,Europe,2025,NMC,155.68
+LG Energy Solution,Europe,2025,NMC,165.71
+LG Energy Solution,Europe,2025,NMC,155.17
+LG Energy Solution,Europe,2025,NMC,164.29
+LG Energy Solution,Asia,2025,NMC,154.28
+LG Energy Solution,Asia,2025,NMC,154.63
+LG Energy Solution,Europe,2025,Solid-State,193.82
+LG Energy Solution,Europe,2025,Solid-State,180.49
+LG Energy Solution,Europe,2025,Solid-State,183.03
+LG Energy Solution,Europe,2025,Solid-State,187.15
+LG Energy Solution,Europe,2025,Solid-State,183.23
+LG Energy Solution,Europe,2025,Solid-State,176.17
+LG Energy Solution,Europe,2025,Solid-State,190.47
+LG Energy Solution,Europe,2025,Solid-State,184.98
+LG Energy Solution,Europe,2025,Solid-State,180.16
+LG Energy Solution,Europe,2025,Solid-State,191.87
+LG Energy Solution,Europe,2025,Solid-State,193.56
+LG Energy Solution,Europe,2025,Solid-State,196.4
+LG Energy Solution,Europe,2025,Solid-State,184.01
+LG Energy Solution,Europe,2025,Solid-State,192.2
+LG Energy Solution,Europe,2025,Solid-State,192.61
+LG Energy Solution,Europe,2025,Solid-State,183.08
+LG Energy Solution,Europe,2026,Lithium-Ion,147.68
+LG Energy Solution,Europe,2026,Lithium-Ion,138.67
+LG Energy Solution,Asia,2026,Lithium-Ion,126.56
+LG Energy Solution,North America,2026,Lithium-Ion,151.24
+LG Energy Solution,Europe,2026,Lithium-Ion,138.55
+LG Energy Solution,Europe,2026,Lithium-Ion,133.8
+LG Energy Solution,Europe,2026,Lithium-Ion,136.98
+LG Energy Solution,Asia,2026,Lithium-Ion,129.04
+LG Energy Solution,Europe,2026,Lithium-Ion,136.73
+LG Energy Solution,Europe,2026,Lithium-Ion,145.11
+LG Energy Solution,Europe,2026,Lithium-Ion,145.61
+LG Energy Solution,Europe,2026,Lithium-Ion,140.96
+LG Energy Solution,Europe,2026,Lithium-Ion,147.22
+LG Energy Solution,Europe,2026,LFP,116.23
+LG Energy Solution,Europe,2026,LFP,113.59
+LG Energy Solution,Europe,2026,LFP,120.29
+LG Energy Solution,Europe,2026,LFP,127.27
+LG Energy Solution,Europe,2026,LFP,117.05
+LG Energy Solution,Europe,2026,LFP,117.35
+LG Energy Solution,Europe,2026,LFP,115.97
+LG Energy Solution,Europe,2026,LFP,118.69
+LG Energy Solution,Europe,2026,LFP,118.41
+LG Energy Solution,Europe,2026,LFP,124.89
+LG Energy Solution,Europe,2026,LFP,114.92
+LG Energy Solution,Europe,2026,LFP,113.01
+LG Energy Solution,Europe,2026,LFP,115.89
+LG Energy Solution,Europe,2026,LFP,114.59
+LG Energy Solution,Europe,2026,LFP,114.69
+LG Energy Solution,Europe,2026,LFP,113.44
+LG Energy Solution,Europe,2026,LFP,118.41
+LG Energy Solution,Asia,2026,LFP,121.29
+LG Energy Solution,Europe,2026,NMC,165.05
+LG Energy Solution,Europe,2026,NMC,156.7
+LG Energy Solution,North America,2026,NMC,165.54
+LG Energy Solution,Europe,2026,NMC,154.95
+LG Energy Solution,Europe,2026,NMC,147.63
+LG Energy Solution,Europe,2026,NMC,149.55
+LG Energy Solution,Europe,2026,NMC,150.58
+LG Energy Solution,Europe,2026,NMC,150.19
+LG Energy Solution,Europe,2026,NMC,148.29
+LG Energy Solution,Europe,2026,NMC,161.56
+LG Energy Solution,Europe,2026,NMC,160.84
+LG Energy Solution,Europe,2026,NMC,162.34
+LG Energy Solution,Europe,2026,NMC,152.35
+LG Energy Solution,Europe,2026,Solid-State,171.63
+LG Energy Solution,Europe,2026,Solid-State,190.77
+LG Energy Solution,Europe,2026,Solid-State,181.38
+LG Energy Solution,Europe,2026,Solid-State,185.32
+LG Energy Solution,Europe,2026,Solid-State,176.74
+LG Energy Solution,Europe,2026,Solid-State,181.84
+LG Energy Solution,Europe,2026,Solid-State,186.5
+LG Energy Solution,Europe,2026,Solid-State,176.43
+LG Energy Solution,Europe,2026,Solid-State,171.23
+LG Energy Solution,North America,2026,Solid-State,185.47
+LG Energy Solution,North America,2026,Solid-State,192.09
+LG Energy Solution,Asia,2026,Solid-State,180.57
+LG Energy Solution,Europe,2026,Solid-State,171.0
+LG Energy Solution,Europe,2026,Solid-State,175.24
+LG Energy Solution,Europe,2026,Solid-State,171.07
+LG Energy Solution,Europe,2026,Solid-State,177.52
+LG Energy Solution,Europe,2026,Solid-State,176.74
+LG Energy Solution,North America,2026,Solid-State,185.02
+Panasonic,Asia,2022,Lithium-Ion,137.92
+Panasonic,Asia,2022,Lithium-Ion,137.62
+Panasonic,Europe,2022,Lithium-Ion,151.36
+Panasonic,Asia,2022,Lithium-Ion,133.4
+Panasonic,Asia,2022,Lithium-Ion,144.47
+Panasonic,Asia,2022,Lithium-Ion,138.02
+Panasonic,Asia,2022,Lithium-Ion,141.83
+Panasonic,Asia,2022,Lithium-Ion,130.7
+Panasonic,Asia,2022,Lithium-Ion,143.08
+Panasonic,Asia,2022,Lithium-Ion,132.39
+Panasonic,Asia,2022,Lithium-Ion,131.05
+Panasonic,Asia,2022,Lithium-Ion,145.67
+Panasonic,North America,2022,LFP,135.35
+Panasonic,Asia,2022,LFP,124.25
+Panasonic,Asia,2022,LFP,121.56
+Panasonic,Asia,2022,LFP,122.9
+Panasonic,Asia,2022,LFP,117.9
+Panasonic,Asia,2022,LFP,117.4
+Panasonic,North America,2022,LFP,126.96
+Panasonic,North America,2022,LFP,126.28
+Panasonic,Asia,2022,LFP,114.19
+Panasonic,Asia,2022,LFP,120.86
+Panasonic,Asia,2022,LFP,119.24
+Panasonic,Asia,2022,LFP,112.57
+Panasonic,Asia,2022,LFP,122.93
+Panasonic,Asia,2022,LFP,114.79
+Panasonic,Europe,2022,NMC,169.36
+Panasonic,Asia,2022,NMC,160.23
+Panasonic,Asia,2022,NMC,152.12
+Panasonic,Asia,2022,NMC,153.75
+Panasonic,Asia,2022,NMC,155.6
+Panasonic,Asia,2022,NMC,162.04
+Panasonic,Europe,2022,NMC,150.33
+Panasonic,North America,2022,NMC,174.82
+Panasonic,Asia,2022,NMC,159.73
+Panasonic,Asia,2022,NMC,158.62
+Panasonic,Asia,2022,NMC,150.12
+Panasonic,Asia,2022,NMC,158.39
+Panasonic,Asia,2022,NMC,163.39
+Panasonic,Asia,2022,NMC,149.98
+Panasonic,Asia,2022,NMC,145.74
+Panasonic,Asia,2022,NMC,156.28
+Panasonic,Asia,2022,NMC,156.0
+Panasonic,Asia,2022,Solid-State,182.98
+Panasonic,Asia,2022,Solid-State,179.34
+Panasonic,Europe,2022,Solid-State,181.71
+Panasonic,Asia,2022,Solid-State,188.17
+Panasonic,Europe,2022,Solid-State,196.83
+Panasonic,Europe,2022,Solid-State,194.05
+Panasonic,Asia,2022,Solid-State,190.27
+Panasonic,Asia,2022,Solid-State,172.85
+Panasonic,Asia,2022,Solid-State,168.9
+Panasonic,Asia,2022,Solid-State,189.47
+Panasonic,North America,2022,Solid-State,185.16
+Panasonic,Asia,2022,Solid-State,188.07
+Panasonic,Europe,2022,Solid-State,185.34
+Panasonic,Europe,2022,Solid-State,179.95
+Panasonic,North America,2023,Lithium-Ion,150.1
+Panasonic,Asia,2023,Lithium-Ion,135.25
+Panasonic,Europe,2023,Lithium-Ion,136.71
+Panasonic,Asia,2023,Lithium-Ion,147.81
+Panasonic,Europe,2023,Lithium-Ion,149.55
+Panasonic,Asia,2023,Lithium-Ion,133.23
+Panasonic,Asia,2023,Lithium-Ion,146.75
+Panasonic,Asia,2023,Lithium-Ion,141.6
+Panasonic,Asia,2023,Lithium-Ion,130.98
+Panasonic,Asia,2023,Lithium-Ion,139.57
+Panasonic,North America,2023,Lithium-Ion,142.4
+Panasonic,Asia,2023,Lithium-Ion,130.6
+Panasonic,Asia,2023,Lithium-Ion,144.63
+Panasonic,Asia,2023,Lithium-Ion,134.17
+Panasonic,Asia,2023,Lithium-Ion,137.72
+Panasonic,Asia,2023,Lithium-Ion,132.87
+Panasonic,Asia,2023,LFP,125.63
+Panasonic,Asia,2023,LFP,125.5
+Panasonic,Asia,2023,LFP,126.76
+Panasonic,North America,2023,LFP,121.97
+Panasonic,Asia,2023,LFP,122.49
+Panasonic,Asia,2023,LFP,115.43
+Panasonic,Asia,2023,LFP,122.99
+Panasonic,Europe,2023,LFP,124.86
+Panasonic,Asia,2023,LFP,121.79
+Panasonic,Asia,2023,LFP,117.03
+Panasonic,Europe,2023,LFP,130.15
+Panasonic,North America,2023,LFP,129.03
+Panasonic,Asia,2023,LFP,124.7
+Panasonic,Asia,2023,LFP,116.56
+Panasonic,Asia,2023,LFP,114.78
+Panasonic,Asia,2023,NMC,160.86
+Panasonic,Asia,2023,NMC,146.62
+Panasonic,Asia,2023,NMC,147.84
+Panasonic,Asia,2023,NMC,152.07
+Panasonic,Asia,2023,NMC,159.04
+Panasonic,Asia,2023,NMC,150.72
+Panasonic,Asia,2023,NMC,149.93
+Panasonic,Europe,2023,NMC,152.81
+Panasonic,Asia,2023,NMC,145.57
+Panasonic,Asia,2023,NMC,161.32
+Panasonic,Asia,2023,NMC,162.82
+Panasonic,Asia,2023,NMC,144.6
+Panasonic,Asia,2023,NMC,148.84
+Panasonic,North America,2023,NMC,166.42
+Panasonic,Asia,2023,NMC,149.94
+Panasonic,Asia,2023,NMC,153.2
+Panasonic,Asia,2023,NMC,158.19
+Panasonic,Asia,2023,Solid-State,190.17
+Panasonic,Europe,2023,Solid-State,195.67
+Panasonic,North America,2023,Solid-State,191.4
+Panasonic,Asia,2023,Solid-State,180.42
+Panasonic,Asia,2023,Solid-State,173.73
+Panasonic,Asia,2023,Solid-State,180.01
+Panasonic,Asia,2023,Solid-State,184.78
+Panasonic,Asia,2023,Solid-State,176.22
+Panasonic,Asia,2023,Solid-State,177.97
+Panasonic,Asia,2023,Solid-State,180.97
+Panasonic,North America,2023,Solid-State,182.41
+Panasonic,Asia,2023,Solid-State,183.28
+Panasonic,Asia,2023,Solid-State,172.31
+Panasonic,Asia,2023,Solid-State,178.1
+Panasonic,Asia,2024,Lithium-Ion,168.43
+Panasonic,Asia,2024,Lithium-Ion,153.38
+Panasonic,Asia,2024,Lithium-Ion,163.81
+Panasonic,Asia,2024,Lithium-Ion,166.68
+Panasonic,Asia,2024,Lithium-Ion,152.94
+Panasonic,Asia,2024,Lithium-Ion,153.54
+Panasonic,Asia,2024,Lithium-Ion,152.69
+Panasonic,North America,2024,Lithium-Ion,167.84
+Panasonic,Asia,2024,Lithium-Ion,168.44
+Panasonic,Asia,2024,Lithium-Ion,156.46
+Panasonic,North America,2024,Lithium-Ion,181.82
+Panasonic,Asia,2024,Lithium-Ion,150.14
+Panasonic,North America,2024,Lithium-Ion,169.67
+Panasonic,Asia,2024,Lithium-Ion,158.9
+Panasonic,North America,2024,Lithium-Ion,182.14
+Panasonic,Europe,2024,Lithium-Ion,158.78
+Panasonic,Asia,2024,LFP,129.74
+Panasonic,Asia,2024,LFP,136.59
+Panasonic,Asia,2024,LFP,136.54
+Panasonic,North America,2024,LFP,149.05
+Panasonic,Asia,2024,LFP,145.39
+Panasonic,Asia,2024,LFP,138.01
+Panasonic,Europe,2024,LFP,144.42
+Panasonic,North America,2024,LFP,147.69
+Panasonic,Asia,2024,LFP,136.31
+Panasonic,Europe,2024,LFP,147.44
+Panasonic,Europe,2024,LFP,150.81
+Panasonic,Europe,2024,LFP,147.86
+Panasonic,North America,2024,LFP,149.91
+Panasonic,Asia,2024,NMC,174.57
+Panasonic,Asia,2024,NMC,187.39
+Panasonic,Asia,2024,NMC,178.2
+Panasonic,Asia,2024,NMC,176.17
+Panasonic,Asia,2024,NMC,185.81
+Panasonic,Europe,2024,NMC,185.27
+Panasonic,Asia,2024,NMC,169.79
+Panasonic,Asia,2024,NMC,171.65
+Panasonic,Asia,2024,NMC,166.56
+Panasonic,Asia,2024,NMC,174.86
+Panasonic,Asia,2024,NMC,177.4
+Panasonic,North America,2024,NMC,190.77
+Panasonic,Asia,2024,NMC,180.75
+Panasonic,Asia,2024,Solid-State,217.48
+Panasonic,Europe,2024,Solid-State,210.38
+Panasonic,Asia,2024,Solid-State,199.52
+Panasonic,Asia,2024,Solid-State,196.34
+Panasonic,Asia,2024,Solid-State,194.26
+Panasonic,Asia,2024,Solid-State,196.62
+Panasonic,Asia,2024,Solid-State,213.82
+Panasonic,Europe,2024,Solid-State,226.69
+Panasonic,Asia,2024,Solid-State,197.8
+Panasonic,Asia,2024,Solid-State,196.43
+Panasonic,North America,2024,Solid-State,216.27
+Panasonic,Asia,2024,Solid-State,212.51
+Panasonic,North America,2024,Solid-State,219.73
+Panasonic,Asia,2024,Solid-State,201.55
+Panasonic,Asia,2024,Solid-State,216.72
+Panasonic,Asia,2025,Lithium-Ion,145.74
+Panasonic,Europe,2025,Lithium-Ion,142.38
+Panasonic,Europe,2025,Lithium-Ion,147.17
+Panasonic,Asia,2025,Lithium-Ion,144.93
+Panasonic,Asia,2025,Lithium-Ion,144.5
+Panasonic,Asia,2025,Lithium-Ion,133.89
+Panasonic,Asia,2025,Lithium-Ion,143.82
+Panasonic,North America,2025,Lithium-Ion,157.8
+Panasonic,Asia,2025,Lithium-Ion,143.85
+Panasonic,Asia,2025,Lithium-Ion,142.24
+Panasonic,Asia,2025,Lithium-Ion,131.91
+Panasonic,Asia,2025,Lithium-Ion,145.91
+Panasonic,Asia,2025,Lithium-Ion,140.4
+Panasonic,Asia,2025,Lithium-Ion,133.72
+Panasonic,Asia,2025,Lithium-Ion,138.21
+Panasonic,Asia,2025,LFP,124.32
+Panasonic,Asia,2025,LFP,117.2
+Panasonic,Asia,2025,LFP,123.09
+Panasonic,Asia,2025,LFP,121.1
+Panasonic,Asia,2025,LFP,122.98
+Panasonic,Asia,2025,LFP,125.58
+Panasonic,Asia,2025,LFP,126.96
+Panasonic,Asia,2025,LFP,119.01
+Panasonic,Asia,2025,LFP,124.75
+Panasonic,Asia,2025,LFP,116.05
+Panasonic,Asia,2025,LFP,125.1
+Panasonic,Asia,2025,LFP,119.92
+Panasonic,Asia,2025,NMC,154.67
+Panasonic,Asia,2025,NMC,147.54
+Panasonic,Asia,2025,NMC,144.84
+Panasonic,Europe,2025,NMC,155.57
+Panasonic,Asia,2025,NMC,162.0
+Panasonic,Asia,2025,NMC,157.89
+Panasonic,Asia,2025,NMC,159.87
+Panasonic,Asia,2025,NMC,152.06
+Panasonic,Europe,2025,NMC,170.28
+Panasonic,Asia,2025,NMC,154.86
+Panasonic,Asia,2025,NMC,162.69
+Panasonic,Asia,2025,NMC,144.43
+Panasonic,Asia,2025,NMC,161.27
+Panasonic,Asia,2025,NMC,147.15
+Panasonic,Asia,2025,Solid-State,185.13
+Panasonic,Asia,2025,Solid-State,187.45
+Panasonic,Asia,2025,Solid-State,182.01
+Panasonic,Asia,2025,Solid-State,174.28
+Panasonic,North America,2025,Solid-State,183.53
+Panasonic,Asia,2025,Solid-State,190.48
+Panasonic,Asia,2025,Solid-State,178.6
+Panasonic,Asia,2025,Solid-State,188.54
+Panasonic,Asia,2025,Solid-State,169.61
+Panasonic,Asia,2025,Solid-State,171.4
+Panasonic,Asia,2025,Solid-State,175.1
+Panasonic,Asia,2025,Solid-State,181.6
+Panasonic,Asia,2025,Solid-State,188.51
+Panasonic,Asia,2025,Solid-State,174.34
+Panasonic,North America,2026,Lithium-Ion,152.07
+Panasonic,Asia,2026,Lithium-Ion,136.38
+Panasonic,Asia,2026,Lithium-Ion,132.39
+Panasonic,North America,2026,Lithium-Ion,152.77
+Panasonic,Asia,2026,Lithium-Ion,126.53
+Panasonic,Asia,2026,Lithium-Ion,126.48
+Panasonic,North America,2026,Lithium-Ion,148.68
+Panasonic,Asia,2026,Lithium-Ion,134.52
+Panasonic,Asia,2026,Lithium-Ion,135.44
+Panasonic,Asia,2026,Lithium-Ion,128.2
+Panasonic,Asia,2026,Lithium-Ion,138.28
+Panasonic,Asia,2026,Lithium-Ion,140.6
+Panasonic,Asia,2026,Lithium-Ion,132.57
+Panasonic,Asia,2026,Lithium-Ion,137.25
+Panasonic,Asia,2026,Lithium-Ion,126.65
+Panasonic,Asia,2026,LFP,116.67
+Panasonic,Asia,2026,LFP,112.85
+Panasonic,Asia,2026,LFP,120.52
+Panasonic,Europe,2026,LFP,114.05
+Panasonic,North America,2026,LFP,123.99
+Panasonic,Asia,2026,LFP,118.59
+Panasonic,Asia,2026,LFP,110.79
+Panasonic,Asia,2026,LFP,114.03
+Panasonic,Asia,2026,LFP,109.17
+Panasonic,Asia,2026,LFP,122.39
+Panasonic,Asia,2026,LFP,108.88
+Panasonic,Asia,2026,LFP,119.91
+Panasonic,Asia,2026,LFP,118.54
+Panasonic,Asia,2026,LFP,118.59
+Panasonic,Asia,2026,LFP,109.26
+Panasonic,Asia,2026,LFP,122.98
+Panasonic,Asia,2026,LFP,118.42
+Panasonic,Asia,2026,LFP,114.9
+Panasonic,Europe,2026,NMC,149.56
+Panasonic,North America,2026,NMC,152.09
+Panasonic,Asia,2026,NMC,151.07
+Panasonic,Asia,2026,NMC,140.96
+Panasonic,Asia,2026,NMC,142.65
+Panasonic,North America,2026,NMC,151.4
+Panasonic,Asia,2026,NMC,150.91
+Panasonic,Asia,2026,NMC,150.76
+Panasonic,Asia,2026,NMC,141.47
+Panasonic,Asia,2026,NMC,141.69
+Panasonic,Asia,2026,NMC,149.76
+Panasonic,Asia,2026,NMC,145.67
+Panasonic,North America,2026,NMC,155.71
+Panasonic,Asia,2026,NMC,148.64
+Panasonic,Asia,2026,Solid-State,164.4
+Panasonic,Asia,2026,Solid-State,182.08
+Panasonic,North America,2026,Solid-State,184.84
+Panasonic,North America,2026,Solid-State,174.65
+Panasonic,Europe,2026,Solid-State,188.89
+Panasonic,Asia,2026,Solid-State,178.92
+Panasonic,Asia,2026,Solid-State,177.03
+Panasonic,Asia,2026,Solid-State,171.29
+Panasonic,Asia,2026,Solid-State,178.02
+Panasonic,Asia,2026,Solid-State,167.22
+Panasonic,Europe,2026,Solid-State,172.36
+Panasonic,Asia,2026,Solid-State,172.27
+Panasonic,Asia,2026,Solid-State,165.71
+BYD Battery,Asia,2022,Lithium-Ion,135.61
+BYD Battery,North America,2022,Lithium-Ion,142.18
+BYD Battery,North America,2022,Lithium-Ion,148.85
+BYD Battery,North America,2022,Lithium-Ion,150.92
+BYD Battery,North America,2022,Lithium-Ion,141.98
+BYD Battery,North America,2022,Lithium-Ion,149.04
+BYD Battery,North America,2022,Lithium-Ion,151.64
+BYD Battery,North America,2022,Lithium-Ion,148.4
+BYD Battery,North America,2022,Lithium-Ion,147.23
+BYD Battery,North America,2022,Lithium-Ion,145.73
+BYD Battery,North America,2022,Lithium-Ion,147.13
+BYD Battery,North America,2022,Lithium-Ion,149.07
+BYD Battery,North America,2022,LFP,127.12
+BYD Battery,North America,2022,LFP,131.9
+BYD Battery,North America,2022,LFP,125.4
+BYD Battery,Europe,2022,LFP,116.83
+BYD Battery,North America,2022,LFP,121.22
+BYD Battery,North America,2022,LFP,120.66
+BYD Battery,North America,2022,LFP,126.97
+BYD Battery,North America,2022,LFP,124.63
+BYD Battery,North America,2022,LFP,126.65
+BYD Battery,North America,2022,LFP,126.17
+BYD Battery,North America,2022,LFP,134.42
+BYD Battery,North America,2022,LFP,132.25
+BYD Battery,North America,2022,LFP,120.83
+BYD Battery,North America,2022,LFP,126.29
+BYD Battery,North America,2022,LFP,127.3
+BYD Battery,North America,2022,LFP,126.03
+BYD Battery,North America,2022,LFP,135.2
+BYD Battery,Asia,2022,LFP,123.14
+BYD Battery,Asia,2022,NMC,150.18
+BYD Battery,North America,2022,NMC,156.12
+BYD Battery,North America,2022,NMC,162.99
+BYD Battery,Europe,2022,NMC,166.06
+BYD Battery,Asia,2022,NMC,158.47
+BYD Battery,North America,2022,NMC,159.01
+BYD Battery,Europe,2022,NMC,159.73
+BYD Battery,North America,2022,NMC,173.56
+BYD Battery,North America,2022,NMC,161.0
+BYD Battery,North America,2022,NMC,157.49
+BYD Battery,Asia,2022,NMC,161.51
+BYD Battery,Europe,2022,NMC,152.87
+BYD Battery,North America,2022,NMC,156.82
+BYD Battery,North America,2022,NMC,159.65
+BYD Battery,North America,2022,NMC,162.09
+BYD Battery,North America,2022,NMC,171.84
+BYD Battery,North America,2022,NMC,157.43
+BYD Battery,North America,2022,Solid-State,192.42
+BYD Battery,North America,2022,Solid-State,184.83
+BYD Battery,North America,2022,Solid-State,203.27
+BYD Battery,North America,2022,Solid-State,204.07
+BYD Battery,Europe,2022,Solid-State,185.01
+BYD Battery,North America,2022,Solid-State,187.07
+BYD Battery,North America,2022,Solid-State,201.65
+BYD Battery,North America,2022,Solid-State,183.67
+BYD Battery,North America,2022,Solid-State,192.41
+BYD Battery,North America,2022,Solid-State,194.7
+BYD Battery,Asia,2022,Solid-State,177.7
+BYD Battery,Europe,2022,Solid-State,192.23
+BYD Battery,North America,2022,Solid-State,179.61
+BYD Battery,Asia,2022,Solid-State,190.37
+BYD Battery,North America,2022,Solid-State,200.01
+BYD Battery,North America,2023,Lithium-Ion,139.82
+BYD Battery,North America,2023,Lithium-Ion,156.62
+BYD Battery,North America,2023,Lithium-Ion,158.58
+BYD Battery,North America,2023,Lithium-Ion,143.71
+BYD Battery,North America,2023,Lithium-Ion,142.34
+BYD Battery,North America,2023,Lithium-Ion,156.07
+BYD Battery,North America,2023,Lithium-Ion,147.21
+BYD Battery,Europe,2023,Lithium-Ion,141.61
+BYD Battery,Europe,2023,Lithium-Ion,140.98
+BYD Battery,North America,2023,Lithium-Ion,149.56
+BYD Battery,North America,2023,Lithium-Ion,154.93
+BYD Battery,North America,2023,Lithium-Ion,154.6
+BYD Battery,Asia,2023,Lithium-Ion,130.96
+BYD Battery,North America,2023,Lithium-Ion,141.55
+BYD Battery,Asia,2023,Lithium-Ion,140.9
+BYD Battery,North America,2023,Lithium-Ion,143.29
+BYD Battery,Asia,2023,LFP,126.87
+BYD Battery,North America,2023,LFP,128.1
+BYD Battery,North America,2023,LFP,131.08
+BYD Battery,North America,2023,LFP,129.26
+BYD Battery,North America,2023,LFP,131.95
+BYD Battery,North America,2023,LFP,131.21
+BYD Battery,Europe,2023,LFP,132.1
+BYD Battery,North America,2023,LFP,128.45
+BYD Battery,North America,2023,LFP,121.59
+BYD Battery,North America,2023,LFP,122.48
+BYD Battery,North America,2023,LFP,119.98
+BYD Battery,North America,2023,LFP,121.9
+BYD Battery,North America,2023,LFP,124.78
+BYD Battery,North America,2023,NMC,158.72
+BYD Battery,North America,2023,NMC,157.63
+BYD Battery,Europe,2023,NMC,152.2
+BYD Battery,North America,2023,NMC,160.14
+BYD Battery,Europe,2023,NMC,156.72
+BYD Battery,Europe,2023,NMC,151.1
+BYD Battery,Europe,2023,NMC,166.92
+BYD Battery,North America,2023,NMC,156.99
+BYD Battery,North America,2023,NMC,174.8
+BYD Battery,North America,2023,NMC,161.91
+BYD Battery,North America,2023,NMC,173.24
+BYD Battery,North America,2023,NMC,162.75
+BYD Battery,North America,2023,NMC,162.24
+BYD Battery,North America,2023,NMC,163.68
+BYD Battery,Asia,2023,Solid-State,189.2
+BYD Battery,North America,2023,Solid-State,191.33
+BYD Battery,Europe,2023,Solid-State,175.49
+BYD Battery,North America,2023,Solid-State,181.43
+BYD Battery,North America,2023,Solid-State,180.18
+BYD Battery,North America,2023,Solid-State,180.4
+BYD Battery,Asia,2023,Solid-State,189.45
+BYD Battery,Asia,2023,Solid-State,186.95
+BYD Battery,North America,2023,Solid-State,194.78
+BYD Battery,North America,2023,Solid-State,187.48
+BYD Battery,Europe,2023,Solid-State,174.79
+BYD Battery,North America,2023,Solid-State,182.08
+BYD Battery,North America,2023,Solid-State,198.7
+BYD Battery,North America,2023,Solid-State,189.05
+BYD Battery,Asia,2023,Solid-State,187.75
+BYD Battery,North America,2023,Solid-State,189.52
+BYD Battery,North America,2023,Solid-State,180.47
+BYD Battery,North America,2023,Solid-State,193.62
+BYD Battery,North America,2023,Solid-State,181.38
+BYD Battery,North America,2024,Lithium-Ion,166.98
+BYD Battery,Asia,2024,Lithium-Ion,151.25
+BYD Battery,North America,2024,Lithium-Ion,160.94
+BYD Battery,North America,2024,Lithium-Ion,165.23
+BYD Battery,Asia,2024,Lithium-Ion,151.75
+BYD Battery,North America,2024,Lithium-Ion,165.01
+BYD Battery,North America,2024,Lithium-Ion,161.29
+BYD Battery,North America,2024,Lithium-Ion,180.16
+BYD Battery,North America,2024,Lithium-Ion,179.05
+BYD Battery,North America,2024,Lithium-Ion,161.21
+BYD Battery,North America,2024,Lithium-Ion,165.33
+BYD Battery,North America,2024,Lithium-Ion,179.94
+BYD Battery,North America,2024,Lithium-Ion,173.89
+BYD Battery,Europe,2024,Lithium-Ion,158.57
+BYD Battery,North America,2024,Lithium-Ion,178.67
+BYD Battery,North America,2024,LFP,138.77
+BYD Battery,North America,2024,LFP,141.36
+BYD Battery,North America,2024,LFP,143.71
+BYD Battery,North America,2024,LFP,139.34
+BYD Battery,North America,2024,LFP,137.85
+BYD Battery,North America,2024,LFP,137.82
+BYD Battery,North America,2024,LFP,145.41
+BYD Battery,North America,2024,LFP,150.91
+BYD Battery,North America,2024,LFP,147.5
+BYD Battery,Asia,2024,LFP,138.2
+BYD Battery,Asia,2024,LFP,134.35
+BYD Battery,North America,2024,LFP,143.08
+BYD Battery,North America,2024,LFP,154.45
+BYD Battery,North America,2024,LFP,145.44
+BYD Battery,North America,2024,LFP,143.78
+BYD Battery,North America,2024,NMC,180.61
+BYD Battery,North America,2024,NMC,184.52
+BYD Battery,North America,2024,NMC,178.46
+BYD Battery,North America,2024,NMC,193.06
+BYD Battery,Europe,2024,NMC,194.79
+BYD Battery,North America,2024,NMC,183.81
+BYD Battery,North America,2024,NMC,196.98
+BYD Battery,North America,2024,NMC,186.57
+BYD Battery,North America,2024,NMC,200.61
+BYD Battery,North America,2024,NMC,184.3
+BYD Battery,North America,2024,NMC,201.91
+BYD Battery,North America,2024,NMC,198.69
+BYD Battery,Europe,2024,NMC,181.34
+BYD Battery,North America,2024,Solid-State,225.13
+BYD Battery,North America,2024,Solid-State,234.08
+BYD Battery,North America,2024,Solid-State,208.81
+BYD Battery,Europe,2024,Solid-State,210.82
+BYD Battery,North America,2024,Solid-State,213.99
+BYD Battery,North America,2024,Solid-State,217.13
+BYD Battery,North America,2024,Solid-State,227.79
+BYD Battery,North America,2024,Solid-State,217.32
+BYD Battery,North America,2024,Solid-State,218.54
+BYD Battery,Asia,2024,Solid-State,208.3
+BYD Battery,Asia,2024,Solid-State,215.48
+BYD Battery,North America,2024,Solid-State,224.15
+BYD Battery,North America,2024,Solid-State,215.78
+BYD Battery,North America,2024,Solid-State,218.33
+BYD Battery,North America,2024,Solid-State,229.45
+BYD Battery,North America,2025,Lithium-Ion,140.55
+BYD Battery,North America,2025,Lithium-Ion,153.85
+BYD Battery,North America,2025,Lithium-Ion,142.15
+BYD Battery,North America,2025,Lithium-Ion,146.76
+BYD Battery,North America,2025,Lithium-Ion,142.09
+BYD Battery,Europe,2025,Lithium-Ion,142.18
+BYD Battery,North America,2025,Lithium-Ion,150.23
+BYD Battery,North America,2025,Lithium-Ion,148.39
+BYD Battery,North America,2025,Lithium-Ion,142.43
+BYD Battery,North America,2025,Lithium-Ion,156.09
+BYD Battery,North America,2025,Lithium-Ion,154.36
+BYD Battery,Europe,2025,Lithium-Ion,138.74
+BYD Battery,North America,2025,Lithium-Ion,152.83
+BYD Battery,North America,2025,Lithium-Ion,148.1
+BYD Battery,North America,2025,Lithium-Ion,146.02
+BYD Battery,North America,2025,Lithium-Ion,154.24
+BYD Battery,North America,2025,Lithium-Ion,155.03
+BYD Battery,Europe,2025,LFP,131.14
+BYD Battery,North America,2025,LFP,123.86
+BYD Battery,North America,2025,LFP,123.95
+BYD Battery,Europe,2025,LFP,123.21
+BYD Battery,North America,2025,LFP,128.49
+BYD Battery,North America,2025,LFP,130.83
+BYD Battery,Asia,2025,LFP,114.01
+BYD Battery,North America,2025,LFP,125.23
+BYD Battery,North America,2025,LFP,129.63
+BYD Battery,North America,2025,LFP,129.67
+BYD Battery,North America,2025,LFP,135.26
+BYD Battery,Asia,2025,LFP,113.92
+BYD Battery,North America,2025,LFP,135.01
+BYD Battery,North America,2025,NMC,160.15
+BYD Battery,North America,2025,NMC,169.27
+BYD Battery,North America,2025,NMC,169.85
+BYD Battery,North America,2025,NMC,172.76
+BYD Battery,North America,2025,NMC,171.9
+BYD Battery,North America,2025,NMC,170.14
+BYD Battery,North America,2025,NMC,159.89
+BYD Battery,North America,2025,NMC,175.13
+BYD Battery,North America,2025,NMC,165.75
+BYD Battery,Asia,2025,NMC,156.0
+BYD Battery,North America,2025,NMC,161.63
+BYD Battery,Asia,2025,NMC,159.31
+BYD Battery,North America,2025,Solid-State,194.47
+BYD Battery,North America,2025,Solid-State,201.04
+BYD Battery,North America,2025,Solid-State,192.17
+BYD Battery,Europe,2025,Solid-State,188.25
+BYD Battery,North America,2025,Solid-State,192.72
+BYD Battery,North America,2025,Solid-State,187.33
+BYD Battery,North America,2025,Solid-State,183.44
+BYD Battery,North America,2025,Solid-State,182.94
+BYD Battery,North America,2025,Solid-State,203.73
+BYD Battery,Asia,2025,Solid-State,189.21
+BYD Battery,Asia,2025,Solid-State,179.18
+BYD Battery,North America,2025,Solid-State,186.33
+BYD Battery,Europe,2025,Solid-State,190.1
+BYD Battery,North America,2025,Solid-State,180.22
+BYD Battery,North America,2026,Lithium-Ion,144.37
+BYD Battery,North America,2026,Lithium-Ion,136.56
+BYD Battery,North America,2026,Lithium-Ion,146.84
+BYD Battery,North America,2026,Lithium-Ion,153.2
+BYD Battery,North America,2026,Lithium-Ion,148.94
+BYD Battery,North America,2026,Lithium-Ion,151.13
+BYD Battery,North America,2026,Lithium-Ion,151.73
+BYD Battery,North America,2026,Lithium-Ion,138.54
+BYD Battery,Asia,2026,Lithium-Ion,131.33
+BYD Battery,North America,2026,Lithium-Ion,148.86
+BYD Battery,North America,2026,Lithium-Ion,140.27
+BYD Battery,Europe,2026,Lithium-Ion,137.39
+BYD Battery,North America,2026,Lithium-Ion,138.43
+BYD Battery,North America,2026,Lithium-Ion,138.91
+BYD Battery,North America,2026,Lithium-Ion,139.1
+BYD Battery,North America,2026,Lithium-Ion,136.14
+BYD Battery,North America,2026,Lithium-Ion,137.25
+BYD Battery,North America,2026,Lithium-Ion,148.21
+BYD Battery,North America,2026,LFP,125.82
+BYD Battery,Asia,2026,LFP,116.11
+BYD Battery,Europe,2026,LFP,114.52
+BYD Battery,North America,2026,LFP,127.18
+BYD Battery,North America,2026,LFP,129.48
+BYD Battery,Europe,2026,LFP,115.72
+BYD Battery,Asia,2026,LFP,112.35
+BYD Battery,North America,2026,LFP,116.68
+BYD Battery,North America,2026,LFP,128.34
+BYD Battery,North America,2026,LFP,117.19
+BYD Battery,North America,2026,LFP,129.37
+BYD Battery,North America,2026,LFP,116.93
+BYD Battery,North America,2026,LFP,117.73
+BYD Battery,North America,2026,NMC,168.68
+BYD Battery,North America,2026,NMC,155.85
+BYD Battery,North America,2026,NMC,168.31
+BYD Battery,North America,2026,NMC,164.32
+BYD Battery,North America,2026,NMC,159.88
+BYD Battery,North America,2026,NMC,169.78
+BYD Battery,Asia,2026,NMC,152.31
+BYD Battery,North America,2026,NMC,165.07
+BYD Battery,North America,2026,NMC,157.06
+BYD Battery,North America,2026,NMC,155.45
+BYD Battery,North America,2026,NMC,159.3
+BYD Battery,Europe,2026,NMC,157.66
+BYD Battery,North America,2026,NMC,157.64
+BYD Battery,North America,2026,NMC,169.6
+BYD Battery,North America,2026,NMC,152.77
+BYD Battery,North America,2026,Solid-State,179.09
+BYD Battery,North America,2026,Solid-State,189.48
+BYD Battery,North America,2026,Solid-State,176.62
+BYD Battery,North America,2026,Solid-State,195.25
+BYD Battery,North America,2026,Solid-State,192.06
+BYD Battery,North America,2026,Solid-State,188.52
+BYD Battery,North America,2026,Solid-State,180.59
+BYD Battery,North America,2026,Solid-State,184.8
+BYD Battery,North America,2026,Solid-State,193.36
+BYD Battery,North America,2026,Solid-State,182.58
+BYD Battery,Asia,2026,Solid-State,173.86
+BYD Battery,North America,2026,Solid-State,186.52
+Samsung SDI,Europe,2022,Lithium-Ion,146.29
+Samsung SDI,Europe,2022,Lithium-Ion,148.82
+Samsung SDI,Europe,2022,Lithium-Ion,147.88
+Samsung SDI,Europe,2022,Lithium-Ion,148.34
+Samsung SDI,Europe,2022,Lithium-Ion,151.82
+Samsung SDI,Europe,2022,Lithium-Ion,139.33
+Samsung SDI,Asia,2022,Lithium-Ion,133.69
+Samsung SDI,Europe,2022,Lithium-Ion,150.74
+Samsung SDI,Europe,2022,Lithium-Ion,148.42
+Samsung SDI,Europe,2022,Lithium-Ion,148.48
+Samsung SDI,Asia,2022,Lithium-Ion,136.5
+Samsung SDI,Europe,2022,Lithium-Ion,152.04
+Samsung SDI,Europe,2022,Lithium-Ion,150.08
+Samsung SDI,Asia,2022,Lithium-Ion,147.85
+Samsung SDI,North America,2022,Lithium-Ion,153.49
+Samsung SDI,North America,2022,Lithium-Ion,145.07
+Samsung SDI,Europe,2022,Lithium-Ion,153.48
+Samsung SDI,Europe,2022,Lithium-Ion,136.91
+Samsung SDI,North America,2022,Lithium-Ion,149.55
+Samsung SDI,Europe,2022,LFP,128.95
+Samsung SDI,Europe,2022,LFP,118.6
+Samsung SDI,Europe,2022,LFP,130.43
+Samsung SDI,Europe,2022,LFP,129.78
+Samsung SDI,Europe,2022,LFP,122.32
+Samsung SDI,Europe,2022,LFP,117.52
+Samsung SDI,Europe,2022,LFP,126.26
+Samsung SDI,Europe,2022,LFP,129.87
+Samsung SDI,Europe,2022,LFP,123.37
+Samsung SDI,Europe,2022,LFP,129.82
+Samsung SDI,Europe,2022,LFP,117.69
+Samsung SDI,Europe,2022,LFP,118.41
+Samsung SDI,Europe,2022,LFP,129.11
+Samsung SDI,Europe,2022,LFP,122.86
+Samsung SDI,Europe,2022,LFP,123.43
+Samsung SDI,Europe,2022,LFP,124.59
+Samsung SDI,Europe,2022,LFP,124.34
+Samsung SDI,Europe,2022,NMC,151.49
+Samsung SDI,Europe,2022,NMC,155.33
+Samsung SDI,Asia,2022,NMC,159.64
+Samsung SDI,Europe,2022,NMC,151.44
+Samsung SDI,Europe,2022,NMC,169.88
+Samsung SDI,Europe,2022,NMC,163.91
+Samsung SDI,Asia,2022,NMC,157.22
+Samsung SDI,Europe,2022,NMC,156.5
+Samsung SDI,Asia,2022,NMC,149.52
+Samsung SDI,Europe,2022,NMC,151.77
+Samsung SDI,Europe,2022,NMC,159.35
+Samsung SDI,Asia,2022,NMC,152.35
+Samsung SDI,Europe,2022,NMC,162.45
+Samsung SDI,Europe,2022,NMC,166.79
+Samsung SDI,North America,2022,NMC,173.33
+Samsung SDI,North America,2022,NMC,163.42
+Samsung SDI,Europe,2022,NMC,156.92
+Samsung SDI,Europe,2022,NMC,150.32
+Samsung SDI,North America,2022,NMC,161.3
+Samsung SDI,North America,2022,Solid-State,188.92
+Samsung SDI,Europe,2022,Solid-State,178.52
+Samsung SDI,North America,2022,Solid-State,187.32
+Samsung SDI,Asia,2022,Solid-State,167.99
+Samsung SDI,Europe,2022,Solid-State,196.65
+Samsung SDI,North America,2022,Solid-State,201.59
+Samsung SDI,Europe,2022,Solid-State,194.92
+Samsung SDI,North America,2022,Solid-State,203.24
+Samsung SDI,Europe,2022,Solid-State,185.25
+Samsung SDI,Asia,2022,Solid-State,185.42
+Samsung SDI,Europe,2022,Solid-State,184.8
+Samsung SDI,Asia,2022,Solid-State,170.98
+Samsung SDI,North America,2022,Solid-State,191.29
+Samsung SDI,North America,2022,Solid-State,203.42
+Samsung SDI,Europe,2022,Solid-State,184.62
+Samsung SDI,Europe,2022,Solid-State,190.5
+Samsung SDI,Europe,2022,Solid-State,177.73
+Samsung SDI,Europe,2022,Solid-State,185.65
+Samsung SDI,North America,2022,Solid-State,198.53
+Samsung SDI,Europe,2023,Lithium-Ion,142.23
+Samsung SDI,Europe,2023,Lithium-Ion,140.02
+Samsung SDI,North America,2023,Lithium-Ion,142.99
+Samsung SDI,Europe,2023,Lithium-Ion,146.05
+Samsung SDI,Europe,2023,Lithium-Ion,154.14
+Samsung SDI,Europe,2023,Lithium-Ion,136.67
+Samsung SDI,Asia,2023,Lithium-Ion,147.52
+Samsung SDI,Europe,2023,Lithium-Ion,141.44
+Samsung SDI,Asia,2023,Lithium-Ion,142.49
+Samsung SDI,Europe,2023,Lithium-Ion,151.67
+Samsung SDI,Europe,2023,Lithium-Ion,142.44
+Samsung SDI,Europe,2023,Lithium-Ion,140.2
+Samsung SDI,Europe,2023,Lithium-Ion,150.63
+Samsung SDI,North America,2023,Lithium-Ion,158.35
+Samsung SDI,Asia,2023,Lithium-Ion,143.17
+Samsung SDI,Europe,2023,Lithium-Ion,142.38
+Samsung SDI,Europe,2023,LFP,120.44
+Samsung SDI,Europe,2023,LFP,131.79
+Samsung SDI,Asia,2023,LFP,123.96
+Samsung SDI,Europe,2023,LFP,120.73
+Samsung SDI,Europe,2023,LFP,130.31
+Samsung SDI,Europe,2023,LFP,120.1
+Samsung SDI,Europe,2023,LFP,121.54
+Samsung SDI,Asia,2023,LFP,115.05
+Samsung SDI,Europe,2023,LFP,117.97
+Samsung SDI,Europe,2023,LFP,130.12
+Samsung SDI,Asia,2023,LFP,116.16
+Samsung SDI,Asia,2023,LFP,117.83
+Samsung SDI,Asia,2023,NMC,157.27
+Samsung SDI,Europe,2023,NMC,156.22
+Samsung SDI,Europe,2023,NMC,158.37
+Samsung SDI,Europe,2023,NMC,158.89
+Samsung SDI,Europe,2023,NMC,154.58
+Samsung SDI,Europe,2023,NMC,156.28
+Samsung SDI,Europe,2023,NMC,151.73
+Samsung SDI,Europe,2023,NMC,159.43
+Samsung SDI,Europe,2023,NMC,154.69
+Samsung SDI,Europe,2023,NMC,164.92
+Samsung SDI,Europe,2023,NMC,166.84
+Samsung SDI,Europe,2023,NMC,160.71
+Samsung SDI,Asia,2023,NMC,160.16
+Samsung SDI,Europe,2023,NMC,154.18
+Samsung SDI,Europe,2023,NMC,162.75
+Samsung SDI,Europe,2023,NMC,158.05
+Samsung SDI,Europe,2023,NMC,161.1
+Samsung SDI,Europe,2023,Solid-State,191.31
+Samsung SDI,Asia,2023,Solid-State,175.14
+Samsung SDI,Europe,2023,Solid-State,185.94
+Samsung SDI,Europe,2023,Solid-State,180.1
+Samsung SDI,Europe,2023,Solid-State,190.44
+Samsung SDI,Europe,2023,Solid-State,184.95
+Samsung SDI,North America,2023,Solid-State,193.75
+Samsung SDI,Europe,2023,Solid-State,176.08
+Samsung SDI,Europe,2023,Solid-State,177.01
+Samsung SDI,Europe,2023,Solid-State,176.66
+Samsung SDI,Europe,2023,Solid-State,192.12
+Samsung SDI,Asia,2023,Solid-State,187.72
+Samsung SDI,Europe,2024,Lithium-Ion,175.22
+Samsung SDI,Europe,2024,Lithium-Ion,163.76
+Samsung SDI,Europe,2024,Lithium-Ion,165.03
+Samsung SDI,North America,2024,Lithium-Ion,177.71
+Samsung SDI,Europe,2024,Lithium-Ion,166.45
+Samsung SDI,Europe,2024,Lithium-Ion,172.01
+Samsung SDI,Europe,2024,Lithium-Ion,160.07
+Samsung SDI,Europe,2024,Lithium-Ion,170.69
+Samsung SDI,Europe,2024,Lithium-Ion,172.53
+Samsung SDI,Europe,2024,Lithium-Ion,167.63
+Samsung SDI,Europe,2024,Lithium-Ion,159.87
+Samsung SDI,Europe,2024,Lithium-Ion,175.77
+Samsung SDI,Asia,2024,Lithium-Ion,165.72
+Samsung SDI,Europe,2024,Lithium-Ion,157.48
+Samsung SDI,Europe,2024,Lithium-Ion,160.5
+Samsung SDI,North America,2024,Lithium-Ion,175.16
+Samsung SDI,Europe,2024,Lithium-Ion,157.97
+Samsung SDI,Europe,2024,Lithium-Ion,156.57
+Samsung SDI,Asia,2024,Lithium-Ion,153.16
+Samsung SDI,Europe,2024,LFP,149.45
+Samsung SDI,Europe,2024,LFP,145.62
+Samsung SDI,North America,2024,LFP,140.52
+Samsung SDI,Europe,2024,LFP,147.36
+Samsung SDI,Europe,2024,LFP,143.95
+Samsung SDI,Europe,2024,LFP,149.03
+Samsung SDI,Europe,2024,LFP,134.62
+Samsung SDI,Europe,2024,LFP,139.79
+Samsung SDI,Europe,2024,LFP,133.86
+Samsung SDI,Europe,2024,LFP,142.73
+Samsung SDI,Asia,2024,LFP,142.06
+Samsung SDI,Europe,2024,LFP,146.89
+Samsung SDI,Europe,2024,LFP,137.89
+Samsung SDI,Europe,2024,LFP,143.13
+Samsung SDI,Europe,2024,LFP,147.77
+Samsung SDI,Europe,2024,NMC,178.88
+Samsung SDI,Europe,2024,NMC,178.44
+Samsung SDI,Asia,2024,NMC,174.82
+Samsung SDI,Europe,2024,NMC,183.16
+Samsung SDI,Europe,2024,NMC,193.86
+Samsung SDI,Europe,2024,NMC,188.77
+Samsung SDI,Europe,2024,NMC,186.64
+Samsung SDI,Europe,2024,NMC,183.95
+Samsung SDI,Asia,2024,NMC,176.59
+Samsung SDI,Europe,2024,NMC,182.61
+Samsung SDI,Europe,2024,NMC,182.01
+Samsung SDI,Europe,2024,NMC,182.63
+Samsung SDI,Europe,2024,NMC,183.27
+Samsung SDI,Asia,2024,NMC,173.44
+Samsung SDI,Europe,2024,NMC,192.1
+Samsung SDI,North America,2024,NMC,195.63
+Samsung SDI,Europe,2024,NMC,188.4
+Samsung SDI,Europe,2024,NMC,195.51
+Samsung SDI,Europe,2024,NMC,191.95
+Samsung SDI,Europe,2024,Solid-State,215.35
+Samsung SDI,Europe,2024,Solid-State,214.03
+Samsung SDI,Europe,2024,Solid-State,202.37
+Samsung SDI,Europe,2024,Solid-State,218.42
+Samsung SDI,Asia,2024,Solid-State,194.38
+Samsung SDI,Asia,2024,Solid-State,198.11
+Samsung SDI,Europe,2024,Solid-State,218.23
+Samsung SDI,Europe,2024,Solid-State,205.03
+Samsung SDI,Europe,2024,Solid-State,202.02
+Samsung SDI,Europe,2024,Solid-State,204.56
+Samsung SDI,Europe,2024,Solid-State,202.42
+Samsung SDI,Europe,2024,Solid-State,210.41
+Samsung SDI,Europe,2024,Solid-State,222.66
+Samsung SDI,Europe,2024,Solid-State,222.78
+Samsung SDI,Europe,2024,Solid-State,212.08
+Samsung SDI,Europe,2024,Solid-State,216.65
+Samsung SDI,North America,2024,Solid-State,227.38
+Samsung SDI,Europe,2024,Solid-State,211.16
+Samsung SDI,Europe,2025,Lithium-Ion,152.15
+Samsung SDI,Asia,2025,Lithium-Ion,131.97
+Samsung SDI,Europe,2025,Lithium-Ion,142.23
+Samsung SDI,Europe,2025,Lithium-Ion,147.54
+Samsung SDI,Europe,2025,Lithium-Ion,141.59
+Samsung SDI,Asia,2025,Lithium-Ion,142.73
+Samsung SDI,North America,2025,Lithium-Ion,152.12
+Samsung SDI,Europe,2025,Lithium-Ion,143.25
+Samsung SDI,Europe,2025,Lithium-Ion,146.7
+Samsung SDI,North America,2025,Lithium-Ion,153.56
+Samsung SDI,Europe,2025,Lithium-Ion,144.45
+Samsung SDI,North America,2025,Lithium-Ion,149.91
+Samsung SDI,Europe,2025,Lithium-Ion,139.36
+Samsung SDI,Europe,2025,Lithium-Ion,146.72
+Samsung SDI,Europe,2025,LFP,118.2
+Samsung SDI,Europe,2025,LFP,124.57
+Samsung SDI,Europe,2025,LFP,126.92
+Samsung SDI,North America,2025,LFP,121.47
+Samsung SDI,Europe,2025,LFP,119.92
+Samsung SDI,Europe,2025,LFP,120.0
+Samsung SDI,Europe,2025,LFP,129.32
+Samsung SDI,North America,2025,LFP,127.73
+Samsung SDI,North America,2025,LFP,123.39
+Samsung SDI,North America,2025,LFP,125.91
+Samsung SDI,Asia,2025,LFP,112.01
+Samsung SDI,Europe,2025,LFP,121.51
+Samsung SDI,Europe,2025,LFP,125.54
+Samsung SDI,Europe,2025,LFP,123.5
+Samsung SDI,Europe,2025,LFP,128.75
+Samsung SDI,Europe,2025,LFP,126.79
+Samsung SDI,Europe,2025,LFP,119.85
+Samsung SDI,Europe,2025,NMC,169.97
+Samsung SDI,North America,2025,NMC,162.98
+Samsung SDI,Europe,2025,NMC,161.33
+Samsung SDI,Europe,2025,NMC,167.95
+Samsung SDI,Europe,2025,NMC,153.22
+Samsung SDI,Europe,2025,NMC,153.2
+Samsung SDI,Asia,2025,NMC,151.03
+Samsung SDI,Europe,2025,NMC,155.97
+Samsung SDI,North America,2025,NMC,166.27
+Samsung SDI,Europe,2025,NMC,161.81
+Samsung SDI,Europe,2025,NMC,170.49
+Samsung SDI,Europe,2025,NMC,159.08
+Samsung SDI,Europe,2025,NMC,155.78
+Samsung SDI,Europe,2025,NMC,167.97
+Samsung SDI,Europe,2025,NMC,155.65
+Samsung SDI,Europe,2025,NMC,156.6
+Samsung SDI,Europe,2025,Solid-State,197.59
+Samsung SDI,Europe,2025,Solid-State,187.89
+Samsung SDI,Europe,2025,Solid-State,186.38
+Samsung SDI,Europe,2025,Solid-State,192.44
+Samsung SDI,Europe,2025,Solid-State,192.64
+Samsung SDI,Europe,2025,Solid-State,185.07
+Samsung SDI,Europe,2025,Solid-State,189.81
+Samsung SDI,Europe,2025,Solid-State,188.26
+Samsung SDI,Europe,2025,Solid-State,175.96
+Samsung SDI,Europe,2025,Solid-State,182.82
+Samsung SDI,Asia,2025,Solid-State,175.15
+Samsung SDI,North America,2025,Solid-State,189.32
+Samsung SDI,Europe,2025,Solid-State,178.62
+Samsung SDI,North America,2025,Solid-State,196.39
+Samsung SDI,Europe,2026,Lithium-Ion,149.27
+Samsung SDI,Europe,2026,Lithium-Ion,136.15
+Samsung SDI,Europe,2026,Lithium-Ion,146.87
+Samsung SDI,North America,2026,Lithium-Ion,151.19
+Samsung SDI,Asia,2026,Lithium-Ion,132.73
+Samsung SDI,Europe,2026,Lithium-Ion,131.76
+Samsung SDI,Europe,2026,Lithium-Ion,143.76
+Samsung SDI,Europe,2026,Lithium-Ion,144.45
+Samsung SDI,Europe,2026,Lithium-Ion,137.72
+Samsung SDI,Europe,2026,Lithium-Ion,142.15
+Samsung SDI,Europe,2026,Lithium-Ion,138.52
+Samsung SDI,Europe,2026,Lithium-Ion,135.9
+Samsung SDI,Asia,2026,Lithium-Ion,137.01
+Samsung SDI,Asia,2026,LFP,112.08
+Samsung SDI,Europe,2026,LFP,117.79
+Samsung SDI,Asia,2026,LFP,118.23
+Samsung SDI,Europe,2026,LFP,116.72
+Samsung SDI,Europe,2026,LFP,122.67
+Samsung SDI,Europe,2026,LFP,118.82
+Samsung SDI,Europe,2026,LFP,119.5
+Samsung SDI,Europe,2026,LFP,125.97
+Samsung SDI,Europe,2026,LFP,116.68
+Samsung SDI,Europe,2026,LFP,123.39
+Samsung SDI,Europe,2026,LFP,115.73
+Samsung SDI,North America,2026,LFP,118.19
+Samsung SDI,North America,2026,LFP,125.47
+Samsung SDI,Europe,2026,LFP,114.63
+Samsung SDI,Europe,2026,LFP,117.32
+Samsung SDI,Asia,2026,NMC,154.02
+Samsung SDI,Europe,2026,NMC,156.9
+Samsung SDI,Europe,2026,NMC,147.45
+Samsung SDI,Asia,2026,NMC,157.2
+Samsung SDI,Europe,2026,NMC,150.98
+Samsung SDI,Europe,2026,NMC,149.71
+Samsung SDI,Europe,2026,NMC,150.91
+Samsung SDI,Europe,2026,NMC,152.26
+Samsung SDI,Europe,2026,NMC,154.65
+Samsung SDI,Europe,2026,NMC,159.75
+Samsung SDI,Europe,2026,NMC,160.22
+Samsung SDI,Europe,2026,NMC,146.97
+Samsung SDI,Europe,2026,NMC,150.24
+Samsung SDI,Europe,2026,NMC,152.62
+Samsung SDI,Europe,2026,NMC,160.81
+Samsung SDI,Europe,2026,NMC,154.77
+Samsung SDI,Europe,2026,Solid-State,170.96
+Samsung SDI,Europe,2026,Solid-State,186.32
+Samsung SDI,Europe,2026,Solid-State,172.3
+Samsung SDI,North America,2026,Solid-State,190.97
+Samsung SDI,Europe,2026,Solid-State,179.13
+Samsung SDI,Europe,2026,Solid-State,190.38
+Samsung SDI,Europe,2026,Solid-State,172.17
+Samsung SDI,Europe,2026,Solid-State,187.09
+Samsung SDI,Europe,2026,Solid-State,181.86
+Samsung SDI,Europe,2026,Solid-State,184.96
+Samsung SDI,Europe,2026,Solid-State,172.57
+Samsung SDI,Europe,2026,Solid-State,169.29
+SK On,North America,2022,Lithium-Ion,143.3
+SK On,Asia,2022,Lithium-Ion,130.65
+SK On,Asia,2022,Lithium-Ion,143.9
+SK On,Asia,2022,Lithium-Ion,135.12
+SK On,Asia,2022,Lithium-Ion,134.99
+SK On,Asia,2022,Lithium-Ion,138.04
+SK On,Asia,2022,Lithium-Ion,142.41
+SK On,Asia,2022,Lithium-Ion,134.51
+SK On,Asia,2022,Lithium-Ion,132.79
+SK On,Asia,2022,Lithium-Ion,137.51
+SK On,Asia,2022,Lithium-Ion,142.23
+SK On,Asia,2022,Lithium-Ion,133.48
+SK On,Asia,2022,Lithium-Ion,146.72
+SK On,Asia,2022,Lithium-Ion,141.15
+SK On,Asia,2022,Lithium-Ion,143.78
+SK On,Asia,2022,Lithium-Ion,135.61
+SK On,Asia,2022,LFP,124.79
+SK On,Asia,2022,LFP,118.15
+SK On,Asia,2022,LFP,119.54
+SK On,Asia,2022,LFP,117.35
+SK On,Asia,2022,LFP,112.71
+SK On,North America,2022,LFP,133.62
+SK On,Asia,2022,LFP,119.37
+SK On,Asia,2022,LFP,117.28
+SK On,Asia,2022,LFP,116.83
+SK On,Asia,2022,LFP,118.12
+SK On,Asia,2022,LFP,111.93
+SK On,Asia,2022,LFP,117.8
+SK On,Asia,2022,LFP,114.98
+SK On,Asia,2022,LFP,116.3
+SK On,Asia,2022,LFP,114.0
+SK On,North America,2022,LFP,120.44
+SK On,Asia,2022,NMC,159.17
+SK On,Asia,2022,NMC,154.46
+SK On,Asia,2022,NMC,148.94
+SK On,Asia,2022,NMC,160.13
+SK On,Asia,2022,NMC,147.72
+SK On,Asia,2022,NMC,160.03
+SK On,Asia,2022,NMC,145.21
+SK On,Asia,2022,NMC,147.4
+SK On,Asia,2022,NMC,163.2
+SK On,Asia,2022,NMC,146.77
+SK On,Asia,2022,NMC,163.11
+SK On,Asia,2022,NMC,159.92
+SK On,Asia,2022,NMC,145.0
+SK On,Asia,2022,NMC,153.44
+SK On,North America,2022,Solid-State,182.07
+SK On,Asia,2022,Solid-State,185.77
+SK On,Asia,2022,Solid-State,174.28
+SK On,Europe,2022,Solid-State,175.04
+SK On,Asia,2022,Solid-State,170.76
+SK On,Asia,2022,Solid-State,179.19
+SK On,Asia,2022,Solid-State,182.66
+SK On,North America,2022,Solid-State,193.96
+SK On,Asia,2022,Solid-State,187.33
+SK On,Europe,2022,Solid-State,194.87
+SK On,Asia,2022,Solid-State,189.7
+SK On,Asia,2022,Solid-State,179.76
+SK On,Asia,2022,Solid-State,183.84
+SK On,Asia,2022,Solid-State,190.34
+SK On,Asia,2022,Solid-State,183.53
+SK On,Asia,2022,Solid-State,186.2
+SK On,Europe,2022,Solid-State,194.84
+SK On,Asia,2023,Lithium-Ion,147.14
+SK On,North America,2023,Lithium-Ion,155.87
+SK On,North America,2023,Lithium-Ion,153.6
+SK On,Asia,2023,Lithium-Ion,143.19
+SK On,Asia,2023,Lithium-Ion,136.97
+SK On,Asia,2023,Lithium-Ion,146.31
+SK On,Asia,2023,Lithium-Ion,136.76
+SK On,North America,2023,Lithium-Ion,141.21
+SK On,North America,2023,Lithium-Ion,158.11
+SK On,Asia,2023,Lithium-Ion,134.16
+SK On,Asia,2023,Lithium-Ion,134.15
+SK On,Asia,2023,Lithium-Ion,135.94
+SK On,Asia,2023,Lithium-Ion,139.27
+SK On,Asia,2023,Lithium-Ion,137.88
+SK On,Asia,2023,LFP,112.17
+SK On,North America,2023,LFP,125.14
+SK On,Asia,2023,LFP,115.91
+SK On,Asia,2023,LFP,111.95
+SK On,Asia,2023,LFP,121.35
+SK On,Asia,2023,LFP,111.84
+SK On,Asia,2023,LFP,119.5
+SK On,Asia,2023,LFP,125.17
+SK On,Asia,2023,LFP,117.55
+SK On,Asia,2023,LFP,113.72
+SK On,Asia,2023,LFP,126.31
+SK On,Europe,2023,LFP,124.81
+SK On,Asia,2023,LFP,122.67
+SK On,Asia,2023,LFP,121.31
+SK On,Europe,2023,LFP,130.14
+SK On,North America,2023,NMC,174.46
+SK On,Asia,2023,NMC,145.91
+SK On,Asia,2023,NMC,146.68
+SK On,Asia,2023,NMC,154.61
+SK On,North America,2023,NMC,169.06
+SK On,North America,2023,NMC,164.73
+SK On,Europe,2023,NMC,168.07
+SK On,Asia,2023,NMC,153.57
+SK On,Asia,2023,NMC,147.38
+SK On,Asia,2023,NMC,157.23
+SK On,North America,2023,NMC,175.06
+SK On,Europe,2023,NMC,161.3
+SK On,Asia,2023,NMC,161.36
+SK On,Asia,2023,NMC,146.74
+SK On,Asia,2023,NMC,155.1
+SK On,Asia,2023,Solid-State,173.54
+SK On,Europe,2023,Solid-State,184.97
+SK On,Asia,2023,Solid-State,188.3
+SK On,Europe,2023,Solid-State,190.0
+SK On,Asia,2023,Solid-State,186.67
+SK On,Asia,2023,Solid-State,169.47
+SK On,Asia,2023,Solid-State,174.3
+SK On,North America,2023,Solid-State,202.49
+SK On,Asia,2023,Solid-State,185.7
+SK On,Asia,2023,Solid-State,187.25
+SK On,Asia,2023,Solid-State,171.56
+SK On,Asia,2023,Solid-State,172.9
+SK On,Asia,2023,Solid-State,180.79
+SK On,Asia,2023,Solid-State,172.8
+SK On,Asia,2023,Solid-State,178.3
+SK On,Asia,2024,Lithium-Ion,165.62
+SK On,Asia,2024,Lithium-Ion,150.29
+SK On,Europe,2024,Lithium-Ion,156.19
+SK On,Asia,2024,Lithium-Ion,164.51
+SK On,Asia,2024,Lithium-Ion,169.91
+SK On,Asia,2024,Lithium-Ion,162.09
+SK On,Asia,2024,Lithium-Ion,152.58
+SK On,Asia,2024,Lithium-Ion,159.55
+SK On,Asia,2024,Lithium-Ion,151.12
+SK On,Asia,2024,Lithium-Ion,156.17
+SK On,Europe,2024,Lithium-Ion,161.06
+SK On,Asia,2024,Lithium-Ion,167.01
+SK On,Asia,2024,Lithium-Ion,155.19
+SK On,Asia,2024,Lithium-Ion,169.08
+SK On,Europe,2024,LFP,137.37
+SK On,Asia,2024,LFP,130.14
+SK On,Asia,2024,LFP,138.23
+SK On,Asia,2024,LFP,142.89
+SK On,Asia,2024,LFP,141.24
+SK On,Asia,2024,LFP,130.91
+SK On,Europe,2024,LFP,137.18
+SK On,Asia,2024,LFP,143.79
+SK On,Europe,2024,LFP,135.94
+SK On,Asia,2024,LFP,129.36
+SK On,Asia,2024,LFP,136.67
+SK On,Europe,2024,LFP,135.96
+SK On,Asia,2024,LFP,145.44
+SK On,Asia,2024,LFP,143.46
+SK On,Europe,2024,LFP,144.81
+SK On,Asia,2024,LFP,142.69
+SK On,Asia,2024,LFP,141.79
+SK On,Asia,2024,LFP,140.31
+SK On,Asia,2024,NMC,170.13
+SK On,Asia,2024,NMC,171.02
+SK On,Asia,2024,NMC,180.98
+SK On,Asia,2024,NMC,181.62
+SK On,Asia,2024,NMC,185.93
+SK On,North America,2024,NMC,183.15
+SK On,Asia,2024,NMC,183.23
+SK On,Asia,2024,NMC,170.95
+SK On,Asia,2024,NMC,176.08
+SK On,Asia,2024,NMC,166.54
+SK On,North America,2024,NMC,188.78
+SK On,Europe,2024,NMC,186.25
+SK On,Asia,2024,NMC,181.3
+SK On,Asia,2024,NMC,178.05
+SK On,Asia,2024,NMC,173.86
+SK On,Asia,2024,NMC,169.18
+SK On,Europe,2024,NMC,184.57
+SK On,Asia,2024,NMC,170.81
+SK On,Asia,2024,Solid-State,205.4
+SK On,Asia,2024,Solid-State,204.45
+SK On,Asia,2024,Solid-State,196.15
+SK On,Europe,2024,Solid-State,202.33
+SK On,Asia,2024,Solid-State,216.39
+SK On,Asia,2024,Solid-State,204.72
+SK On,Asia,2024,Solid-State,213.13
+SK On,Asia,2024,Solid-State,205.38
+SK On,North America,2024,Solid-State,230.98
+SK On,Asia,2024,Solid-State,207.34
+SK On,Asia,2024,Solid-State,201.28
+SK On,Asia,2024,Solid-State,199.97
+SK On,Asia,2024,Solid-State,193.93
+SK On,Asia,2025,Lithium-Ion,137.01
+SK On,Asia,2025,Lithium-Ion,131.88
+SK On,Asia,2025,Lithium-Ion,135.64
+SK On,Europe,2025,Lithium-Ion,150.94
+SK On,Asia,2025,Lithium-Ion,132.76
+SK On,Asia,2025,Lithium-Ion,144.36
+SK On,Asia,2025,Lithium-Ion,135.19
+SK On,Europe,2025,Lithium-Ion,153.71
+SK On,Europe,2025,Lithium-Ion,149.63
+SK On,Asia,2025,Lithium-Ion,144.05
+SK On,Asia,2025,Lithium-Ion,141.02
+SK On,Asia,2025,Lithium-Ion,139.6
+SK On,Asia,2025,Lithium-Ion,142.44
+SK On,Asia,2025,Lithium-Ion,146.72
+SK On,Asia,2025,LFP,115.9
+SK On,Asia,2025,LFP,121.34
+SK On,Asia,2025,LFP,125.69
+SK On,Asia,2025,LFP,114.83
+SK On,Asia,2025,LFP,114.81
+SK On,Asia,2025,LFP,112.95
+SK On,North America,2025,LFP,121.5
+SK On,Asia,2025,LFP,121.69
+SK On,North America,2025,LFP,134.74
+SK On,Asia,2025,LFP,115.97
+SK On,Asia,2025,LFP,116.47
+SK On,Asia,2025,LFP,124.33
+SK On,Asia,2025,LFP,125.34
+SK On,Asia,2025,LFP,116.82
+SK On,Asia,2025,LFP,122.47
+SK On,Asia,2025,NMC,149.84
+SK On,Asia,2025,NMC,158.94
+SK On,Asia,2025,NMC,150.07
+SK On,Asia,2025,NMC,145.73
+SK On,Asia,2025,NMC,157.86
+SK On,Asia,2025,NMC,149.88
+SK On,Asia,2025,NMC,147.58
+SK On,Asia,2025,NMC,148.4
+SK On,Asia,2025,NMC,158.47
+SK On,Asia,2025,NMC,159.61
+SK On,Asia,2025,NMC,160.33
+SK On,Asia,2025,NMC,150.93
+SK On,Asia,2025,NMC,146.44
+SK On,Asia,2025,NMC,151.83
+SK On,Europe,2025,NMC,170.63
+SK On,Asia,2025,NMC,145.44
+SK On,North America,2025,NMC,173.85
+SK On,Asia,2025,NMC,162.87
+SK On,Asia,2025,Solid-State,185.5
+SK On,Asia,2025,Solid-State,189.49
+SK On,North America,2025,Solid-State,200.88
+SK On,Asia,2025,Solid-State,168.47
+SK On,North America,2025,Solid-State,203.42
+SK On,Asia,2025,Solid-State,174.04
+SK On,Asia,2025,Solid-State,179.02
+SK On,Asia,2025,Solid-State,171.78
+SK On,Asia,2025,Solid-State,174.1
+SK On,Asia,2025,Solid-State,188.04
+SK On,Asia,2025,Solid-State,186.98
+SK On,Asia,2025,Solid-State,175.24
+SK On,Europe,2025,Solid-State,189.98
+SK On,Asia,2025,Solid-State,180.47
+SK On,Asia,2025,Solid-State,169.28
+SK On,Asia,2025,Solid-State,179.35
+SK On,Asia,2025,Solid-State,185.49
+SK On,Asia,2026,Lithium-Ion,127.18
+SK On,Europe,2026,Lithium-Ion,142.24
+SK On,Europe,2026,Lithium-Ion,138.92
+SK On,Asia,2026,Lithium-Ion,136.91
+SK On,Asia,2026,Lithium-Ion,127.62
+SK On,Asia,2026,Lithium-Ion,137.59
+SK On,North America,2026,Lithium-Ion,142.87
+SK On,Asia,2026,Lithium-Ion,143.3
+SK On,Asia,2026,Lithium-Ion,132.62
+SK On,Asia,2026,Lithium-Ion,139.7
+SK On,Asia,2026,Lithium-Ion,137.28
+SK On,Asia,2026,Lithium-Ion,127.43
+SK On,Asia,2026,LFP,116.72
+SK On,Asia,2026,LFP,109.08
+SK On,Asia,2026,LFP,118.94
+SK On,Asia,2026,LFP,116.06
+SK On,Asia,2026,LFP,109.52
+SK On,Asia,2026,LFP,116.34
+SK On,Asia,2026,LFP,110.65
+SK On,Europe,2026,LFP,116.52
+SK On,Asia,2026,LFP,109.49
+SK On,Asia,2026,LFP,118.91
+SK On,Asia,2026,LFP,113.49
+SK On,Asia,2026,LFP,120.95
+SK On,North America,2026,LFP,120.08
+SK On,Asia,2026,LFP,109.89
+SK On,Asia,2026,LFP,114.91
+SK On,Asia,2026,LFP,118.08
+SK On,Asia,2026,LFP,120.76
+SK On,North America,2026,NMC,150.2
+SK On,Asia,2026,NMC,144.05
+SK On,Asia,2026,NMC,145.34
+SK On,Asia,2026,NMC,158.39
+SK On,Asia,2026,NMC,142.57
+SK On,Asia,2026,NMC,154.12
+SK On,Asia,2026,NMC,149.68
+SK On,Asia,2026,NMC,153.06
+SK On,Asia,2026,NMC,148.44
+SK On,Europe,2026,NMC,152.87
+SK On,Asia,2026,NMC,145.9
+SK On,Asia,2026,NMC,147.25
+SK On,Asia,2026,NMC,146.35
+SK On,Asia,2026,NMC,147.58
+SK On,Asia,2026,Solid-State,176.94
+SK On,Asia,2026,Solid-State,174.67
+SK On,Asia,2026,Solid-State,180.35
+SK On,North America,2026,Solid-State,180.17
+SK On,Asia,2026,Solid-State,166.6
+SK On,Asia,2026,Solid-State,170.37
+SK On,Asia,2026,Solid-State,166.74
+SK On,Asia,2026,Solid-State,182.3
+SK On,Asia,2026,Solid-State,176.83
+SK On,Asia,2026,Solid-State,166.73
+SK On,Asia,2026,Solid-State,181.31
+SK On,North America,2026,Solid-State,180.02
+SK On,Asia,2026,Solid-State,171.4
+SK On,Asia,2026,Solid-State,167.22
+SK On,Europe,2026,Solid-State,177.13
+SK On,Asia,2026,Solid-State,168.64
+Northvolt,North America,2022,Lithium-Ion,139.91
+Northvolt,North America,2022,Lithium-Ion,149.16
+Northvolt,North America,2022,Lithium-Ion,154.98
+Northvolt,North America,2022,Lithium-Ion,149.69
+Northvolt,North America,2022,Lithium-Ion,154.79
+Northvolt,North America,2022,Lithium-Ion,147.11
+Northvolt,Europe,2022,Lithium-Ion,141.64
+Northvolt,North America,2022,Lithium-Ion,152.11
+Northvolt,North America,2022,Lithium-Ion,147.89
+Northvolt,North America,2022,Lithium-Ion,158.52
+Northvolt,Europe,2022,Lithium-Ion,140.4
+Northvolt,North America,2022,Lithium-Ion,149.4
+Northvolt,North America,2022,LFP,128.66
+Northvolt,North America,2022,LFP,123.75
+Northvolt,North America,2022,LFP,133.81
+Northvolt,North America,2022,LFP,128.22
+Northvolt,North America,2022,LFP,126.54
+Northvolt,Asia,2022,LFP,112.31
+Northvolt,North America,2022,LFP,120.76
+Northvolt,Asia,2022,LFP,125.21
+Northvolt,North America,2022,LFP,134.09
+Northvolt,North America,2022,LFP,127.56
+Northvolt,North America,2022,LFP,126.57
+Northvolt,North America,2022,LFP,130.6
+Northvolt,North America,2022,LFP,134.79
+Northvolt,Europe,2022,LFP,120.11
+Northvolt,North America,2022,LFP,123.61
+Northvolt,Asia,2022,LFP,111.82
+Northvolt,North America,2022,LFP,120.31
+Northvolt,North America,2022,LFP,135.99
+Northvolt,North America,2022,LFP,134.61
+Northvolt,North America,2022,NMC,174.17
+Northvolt,North America,2022,NMC,173.71
+Northvolt,North America,2022,NMC,165.93
+Northvolt,North America,2022,NMC,165.07
+Northvolt,North America,2022,NMC,155.65
+Northvolt,North America,2022,NMC,172.98
+Northvolt,North America,2022,NMC,167.91
+Northvolt,Europe,2022,NMC,166.14
+Northvolt,North America,2022,NMC,161.81
+Northvolt,North America,2022,NMC,174.04
+Northvolt,North America,2022,NMC,175.06
+Northvolt,North America,2022,NMC,170.06
+Northvolt,North America,2022,NMC,167.42
+Northvolt,North America,2022,NMC,158.17
+Northvolt,North America,2022,NMC,161.1
+Northvolt,Europe,2022,NMC,156.43
+Northvolt,North America,2022,NMC,158.47
+Northvolt,North America,2022,NMC,173.39
+Northvolt,Asia,2022,Solid-State,168.86
+Northvolt,North America,2022,Solid-State,189.91
+Northvolt,Asia,2022,Solid-State,172.72
+Northvolt,North America,2022,Solid-State,192.23
+Northvolt,North America,2022,Solid-State,189.68
+Northvolt,North America,2022,Solid-State,182.81
+Northvolt,North America,2022,Solid-State,182.15
+Northvolt,North America,2022,Solid-State,189.62
+Northvolt,North America,2022,Solid-State,196.78
+Northvolt,North America,2022,Solid-State,201.98
+Northvolt,North America,2022,Solid-State,200.51
+Northvolt,North America,2022,Solid-State,186.93
+Northvolt,North America,2022,Solid-State,190.02
+Northvolt,North America,2022,Solid-State,182.15
+Northvolt,North America,2022,Solid-State,187.53
+Northvolt,North America,2022,Solid-State,192.25
+Northvolt,North America,2022,Solid-State,187.94
+Northvolt,North America,2022,Solid-State,191.96
+Northvolt,North America,2023,Lithium-Ion,149.22
+Northvolt,North America,2023,Lithium-Ion,140.25
+Northvolt,North America,2023,Lithium-Ion,152.08
+Northvolt,North America,2023,Lithium-Ion,142.49
+Northvolt,North America,2023,Lithium-Ion,144.6
+Northvolt,North America,2023,Lithium-Ion,140.48
+Northvolt,Asia,2023,Lithium-Ion,135.98
+Northvolt,Asia,2023,Lithium-Ion,130.59
+Northvolt,North America,2023,Lithium-Ion,156.76
+Northvolt,Asia,2023,Lithium-Ion,147.51
+Northvolt,North America,2023,Lithium-Ion,146.55
+Northvolt,North America,2023,Lithium-Ion,155.29
+Northvolt,Europe,2023,Lithium-Ion,136.98
+Northvolt,North America,2023,Lithium-Ion,148.41
+Northvolt,North America,2023,Lithium-Ion,152.58
+Northvolt,North America,2023,LFP,129.6
+Northvolt,North America,2023,LFP,121.37
+Northvolt,North America,2023,LFP,123.83
+Northvolt,North America,2023,LFP,131.84
+Northvolt,North America,2023,LFP,132.67
+Northvolt,North America,2023,LFP,135.03
+Northvolt,North America,2023,LFP,119.78
+Northvolt,North America,2023,LFP,120.54
+Northvolt,Europe,2023,LFP,127.05
+Northvolt,North America,2023,LFP,126.18
+Northvolt,North America,2023,LFP,124.34
+Northvolt,North America,2023,LFP,126.72
+Northvolt,North America,2023,LFP,125.95
+Northvolt,North America,2023,LFP,124.44
+Northvolt,Asia,2023,LFP,122.01
+Northvolt,North America,2023,LFP,127.47
+Northvolt,North America,2023,LFP,122.69
+Northvolt,Europe,2023,LFP,116.86
+Northvolt,North America,2023,NMC,172.48
+Northvolt,North America,2023,NMC,174.3
+Northvolt,North America,2023,NMC,158.98
+Northvolt,North America,2023,NMC,171.06
+Northvolt,North America,2023,NMC,164.47
+Northvolt,Asia,2023,NMC,162.19
+Northvolt,North America,2023,NMC,172.75
+Northvolt,Asia,2023,NMC,149.05
+Northvolt,Asia,2023,NMC,160.09
+Northvolt,North America,2023,NMC,175.31
+Northvolt,Asia,2023,NMC,150.56
+Northvolt,North America,2023,NMC,172.16
+Northvolt,North America,2023,NMC,154.79
+Northvolt,North America,2023,NMC,173.62
+Northvolt,North America,2023,NMC,168.54
+Northvolt,North America,2023,NMC,162.41
+Northvolt,North America,2023,NMC,171.84
+Northvolt,North America,2023,NMC,171.94
+Northvolt,North America,2023,NMC,172.24
+Northvolt,North America,2023,Solid-State,201.25
+Northvolt,North America,2023,Solid-State,194.82
+Northvolt,North America,2023,Solid-State,199.9
+Northvolt,North America,2023,Solid-State,189.35
+Northvolt,North America,2023,Solid-State,201.11
+Northvolt,Europe,2023,Solid-State,177.55
+Northvolt,North America,2023,Solid-State,196.88
+Northvolt,North America,2023,Solid-State,197.66
+Northvolt,North America,2023,Solid-State,199.17
+Northvolt,Asia,2023,Solid-State,171.36
+Northvolt,North America,2023,Solid-State,201.43
+Northvolt,North America,2023,Solid-State,197.65
+Northvolt,Asia,2023,Solid-State,186.69
+Northvolt,Asia,2023,Solid-State,171.31
+Northvolt,Europe,2024,Lithium-Ion,174.97
+Northvolt,North America,2024,Lithium-Ion,167.75
+Northvolt,North America,2024,Lithium-Ion,172.3
+Northvolt,North America,2024,Lithium-Ion,173.23
+Northvolt,North America,2024,Lithium-Ion,181.08
+Northvolt,North America,2024,Lithium-Ion,175.4
+Northvolt,North America,2024,Lithium-Ion,169.08
+Northvolt,North America,2024,Lithium-Ion,176.11
+Northvolt,North America,2024,Lithium-Ion,181.38
+Northvolt,Asia,2024,Lithium-Ion,169.44
+Northvolt,Asia,2024,Lithium-Ion,152.17
+Northvolt,North America,2024,Lithium-Ion,171.93
+Northvolt,North America,2024,Lithium-Ion,177.39
+Northvolt,Europe,2024,LFP,136.6
+Northvolt,North America,2024,LFP,141.12
+Northvolt,Europe,2024,LFP,147.59
+Northvolt,North America,2024,LFP,139.21
+Northvolt,North America,2024,LFP,142.44
+Northvolt,North America,2024,LFP,139.81
+Northvolt,Asia,2024,LFP,138.58
+Northvolt,Asia,2024,LFP,130.58
+Northvolt,Asia,2024,LFP,136.41
+Northvolt,North America,2024,LFP,152.71
+Northvolt,North America,2024,LFP,140.71
+Northvolt,North America,2024,LFP,150.3
+Northvolt,Europe,2024,LFP,145.21
+Northvolt,North America,2024,LFP,139.85
+Northvolt,Europe,2024,LFP,143.17
+Northvolt,Europe,2024,LFP,142.75
+Northvolt,North America,2024,LFP,138.27
+Northvolt,Asia,2024,LFP,137.61
+Northvolt,North America,2024,LFP,148.73
+Northvolt,North America,2024,NMC,189.77
+Northvolt,North America,2024,NMC,196.68
+Northvolt,North America,2024,NMC,180.31
+Northvolt,North America,2024,NMC,197.2
+Northvolt,North America,2024,NMC,182.29
+Northvolt,North America,2024,NMC,192.26
+Northvolt,North America,2024,NMC,189.01
+Northvolt,North America,2024,NMC,184.98
+Northvolt,North America,2024,NMC,185.14
+Northvolt,North America,2024,NMC,189.51
+Northvolt,North America,2024,NMC,183.26
+Northvolt,North America,2024,NMC,189.39
+Northvolt,North America,2024,NMC,191.76
+Northvolt,Asia,2024,NMC,177.67
+Northvolt,North America,2024,NMC,193.69
+Northvolt,North America,2024,NMC,183.43
+Northvolt,Asia,2024,Solid-State,195.27
+Northvolt,North America,2024,Solid-State,213.97
+Northvolt,North America,2024,Solid-State,232.01
+Northvolt,North America,2024,Solid-State,233.84
+Northvolt,Asia,2024,Solid-State,192.84
+Northvolt,Europe,2024,Solid-State,217.4
+Northvolt,Europe,2024,Solid-State,212.12
+Northvolt,Asia,2024,Solid-State,218.37
+Northvolt,North America,2024,Solid-State,227.51
+Northvolt,Asia,2024,Solid-State,215.9
+Northvolt,North America,2024,Solid-State,223.94
+Northvolt,North America,2024,Solid-State,212.62
+Northvolt,North America,2024,Solid-State,209.22
+Northvolt,North America,2024,Solid-State,217.36
+Northvolt,Europe,2024,Solid-State,221.56
+Northvolt,North America,2024,Solid-State,208.79
+Northvolt,North America,2024,Solid-State,228.96
+Northvolt,North America,2025,Lithium-Ion,156.7
+Northvolt,North America,2025,Lithium-Ion,141.79
+Northvolt,North America,2025,Lithium-Ion,158.51
+Northvolt,North America,2025,Lithium-Ion,147.61
+Northvolt,North America,2025,Lithium-Ion,157.98
+Northvolt,Asia,2025,Lithium-Ion,140.1
+Northvolt,North America,2025,Lithium-Ion,151.76
+Northvolt,Asia,2025,Lithium-Ion,146.07
+Northvolt,North America,2025,Lithium-Ion,140.15
+Northvolt,North America,2025,Lithium-Ion,140.1
+Northvolt,North America,2025,Lithium-Ion,141.08
+Northvolt,North America,2025,Lithium-Ion,147.34
+Northvolt,Asia,2025,Lithium-Ion,140.22
+Northvolt,Asia,2025,Lithium-Ion,135.01
+Northvolt,Europe,2025,Lithium-Ion,149.28
+Northvolt,Europe,2025,Lithium-Ion,140.69
+Northvolt,North America,2025,Lithium-Ion,157.62
+Northvolt,North America,2025,Lithium-Ion,140.79
+Northvolt,North America,2025,Lithium-Ion,158.24
+Northvolt,North America,2025,LFP,121.24
+Northvolt,North America,2025,LFP,120.95
+Northvolt,North America,2025,LFP,123.11
+Northvolt,North America,2025,LFP,131.89
+Northvolt,North America,2025,LFP,132.81
+Northvolt,North America,2025,LFP,123.69
+Northvolt,North America,2025,LFP,131.58
+Northvolt,North America,2025,LFP,124.06
+Northvolt,North America,2025,LFP,134.29
+Northvolt,North America,2025,LFP,123.1
+Northvolt,North America,2025,LFP,121.79
+Northvolt,Asia,2025,LFP,116.41
+Northvolt,North America,2025,NMC,171.13
+Northvolt,North America,2025,NMC,166.52
+Northvolt,North America,2025,NMC,158.08
+Northvolt,North America,2025,NMC,160.87
+Northvolt,North America,2025,NMC,170.06
+Northvolt,Asia,2025,NMC,157.14
+Northvolt,Europe,2025,NMC,155.18
+Northvolt,North America,2025,NMC,157.6
+Northvolt,North America,2025,NMC,162.13
+Northvolt,North America,2025,NMC,169.68
+Northvolt,Asia,2025,NMC,144.85
+Northvolt,North America,2025,NMC,174.98
+Northvolt,North America,2025,NMC,164.72
+Northvolt,Europe,2025,NMC,170.13
+Northvolt,North America,2025,NMC,175.12
+Northvolt,North America,2025,Solid-State,197.65
+Northvolt,North America,2025,Solid-State,198.33
+Northvolt,North America,2025,Solid-State,183.72
+Northvolt,North America,2025,Solid-State,186.06
+Northvolt,Asia,2025,Solid-State,188.25
+Northvolt,North America,2025,Solid-State,193.57
+Northvolt,North America,2025,Solid-State,197.24
+Northvolt,North America,2025,Solid-State,202.6
+Northvolt,North America,2025,Solid-State,204.0
+Northvolt,North America,2025,Solid-State,197.52
+Northvolt,Europe,2025,Solid-State,182.79
+Northvolt,North America,2025,Solid-State,193.0
+Northvolt,North America,2025,Solid-State,195.19
+Northvolt,North America,2025,Solid-State,200.81
+Northvolt,North America,2025,Solid-State,203.04
+Northvolt,North America,2025,Solid-State,199.36
+Northvolt,Asia,2025,Solid-State,186.07
+Northvolt,North America,2025,Solid-State,192.99
+Northvolt,North America,2025,Solid-State,194.87
+Northvolt,North America,2026,Lithium-Ion,150.88
+Northvolt,North America,2026,Lithium-Ion,152.61
+Northvolt,North America,2026,Lithium-Ion,136.62
+Northvolt,North America,2026,Lithium-Ion,150.44
+Northvolt,North America,2026,Lithium-Ion,142.54
+Northvolt,North America,2026,Lithium-Ion,145.76
+Northvolt,North America,2026,Lithium-Ion,142.35
+Northvolt,North America,2026,Lithium-Ion,143.26
+Northvolt,North America,2026,Lithium-Ion,153.86
+Northvolt,North America,2026,Lithium-Ion,146.25
+Northvolt,North America,2026,Lithium-Ion,139.16
+Northvolt,North America,2026,Lithium-Ion,142.97
+Northvolt,North America,2026,Lithium-Ion,146.23
+Northvolt,North America,2026,Lithium-Ion,144.12
+Northvolt,North America,2026,Lithium-Ion,150.59
+Northvolt,North America,2026,Lithium-Ion,139.21
+Northvolt,North America,2026,Lithium-Ion,145.9
+Northvolt,Europe,2026,Lithium-Ion,133.97
+Northvolt,North America,2026,Lithium-Ion,135.9
+Northvolt,North America,2026,LFP,125.91
+Northvolt,North America,2026,LFP,120.61
+Northvolt,North America,2026,LFP,131.83
+Northvolt,North America,2026,LFP,126.09
+Northvolt,North America,2026,LFP,131.39
+Northvolt,North America,2026,LFP,125.39
+Northvolt,North America,2026,LFP,125.89
+Northvolt,Asia,2026,LFP,110.43
+Northvolt,North America,2026,LFP,126.49
+Northvolt,North America,2026,LFP,117.19
+Northvolt,North America,2026,LFP,119.35
+Northvolt,North America,2026,LFP,126.63
+Northvolt,Asia,2026,LFP,118.43
+Northvolt,Asia,2026,NMC,158.81
+Northvolt,North America,2026,NMC,160.49
+Northvolt,North America,2026,NMC,165.21
+Northvolt,North America,2026,NMC,157.24
+Northvolt,North America,2026,NMC,161.05
+Northvolt,North America,2026,NMC,167.19
+Northvolt,North America,2026,NMC,167.75
+Northvolt,North America,2026,NMC,155.32
+Northvolt,North America,2026,NMC,154.16
+Northvolt,Europe,2026,NMC,157.15
+Northvolt,North America,2026,NMC,167.71
+Northvolt,North America,2026,NMC,167.21
+Northvolt,North America,2026,NMC,165.24
+Northvolt,North America,2026,NMC,153.8
+Northvolt,North America,2026,NMC,152.8
+Northvolt,Europe,2026,NMC,147.97
+Northvolt,North America,2026,NMC,160.56
+Northvolt,North America,2026,NMC,165.71
+Northvolt,North America,2026,NMC,169.1
+Northvolt,North America,2026,Solid-State,197.55
+Northvolt,North America,2026,Solid-State,193.14
+Northvolt,Europe,2026,Solid-State,190.37
+Northvolt,North America,2026,Solid-State,197.66
+Northvolt,North America,2026,Solid-State,174.49
+Northvolt,North America,2026,Solid-State,186.12
+Northvolt,North America,2026,Solid-State,194.29
+Northvolt,Asia,2026,Solid-State,177.09
+Northvolt,North America,2026,Solid-State,191.86
+Northvolt,North America,2026,Solid-State,188.12
+Northvolt,North America,2026,Solid-State,191.44
+Northvolt,North America,2026,Solid-State,184.57
+Northvolt,North America,2026,Solid-State,195.86
+Northvolt,Europe,2026,Solid-State,181.02
