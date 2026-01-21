@@ -1,4 +1,4 @@
-# 🚗 Aurix Motors – EV Business Performance Analysis Dashboard | Power BI
+# Aurix Motors – EV Business Performance Analysis | Power BI
 
 ## Overview
 This project presents an end-to-end **EV Business Performance Analysis Dashboard** developed using **Power BI**.  
@@ -6,6 +6,8 @@ The dashboard analyzes a **fictional but industry-realistic Electric Vehicle (EV
 
 The objective is to understand **how a global EV manufacturer scales operations, manages margins, allocates workforce, and responds to customer feedback** using descriptive and diagnostic analytics.
 
+---
+![](05_Dashboards/Images/Home.png)
 ---
 
 ## Dataset Overview
@@ -48,27 +50,15 @@ For presentation clarity, the **primary dashboard views** are highlighted below.
 ### 🔹 Dashboard Preview
 
 #### Executive Overview
-![Executive Overview](05_Dashboard/Dashboard_Images/Executive_Overview.png)
+![Executive Overview](05_Dashboards/Images/Executive.png)
 
 #### Sales Performance
-![Sales Performance](05_Dashboard/Dashboard_Images/Sales_Performance.png)
-
-#### Finance Overview
-![Finance Overview](05_Dashboard/Dashboard_Images/Finance_Overview.png)
-
-#### Operations & Manufacturing
-![Operations](05_Dashboard/Dashboard_Images/Operations_Overview.png)
-
-#### Workforce Analytics
-![Workforce](05_Dashboard/Dashboard_Images/Workforce_Analytics.png)
-
-#### Customer Experience
-![Customer](05_Dashboard/Dashboard_Images/Customer_Experience.png)
+![Sales Performance](05_Dashboards/Images/Sales.png)
 
 ---
 
-📄 **Full Dashboard (All Pages – PDF):**  
-🔹 `Aurix_Motors_Dashboard.pdf`
+📄**Full Dashboard (All Pages – PDF):**  
+🔹[View Complete Dashboard PDF](05_Dashboards/AurixMotors_Dashboard.pdf)
 
 This PDF contains **all dashboard pages across Executive, Sales, Finance, Operations, Workforce, and Customer analysis**.
 
@@ -138,20 +128,17 @@ This asymmetric strategy reduces regional dependency risk.
 ## Project Documentation
 
 - 📄 **Project Proposal:**  
-  `Aurix_Motors_PowerBI_Project_Proposal.docx`
+  [Aurix_Motors_PowerBI_Project_Proposal](03_Documentation/AM_PowerBI_Project_Proposal.docx)
 
 - 📄 **Case Study (End-to-End EV Analytics):**  
-  `Aurix_Motors_Case_Study_Professional.docx`
+  [Aurix_Motors_Case_Study](03_Documentation/Aurix_Motors_Case_Study.docx)
 
-- 📄 **Business Analysis Report:**  
-  `Aurix_Motors_Business_Analysis.docx`
+- 📄 **Detailed Insights Report:**  
+  [Aurix_Motors_Business_Analysis](04_Insights/Aurix_Motors_Business_Analysis.docx)
 
 - 📄 **DAX Measures & Analytical Logic (Appendix):**  
-  `Aurix_Motors_Appendix_A_DAX_Measures.docx`
+  [Appendix_DAX_Measures](03_Documentation/AM_Appendix_A_DAX_Measures.docx)
+
 
 ---
 
-## Conclusion
-The **Aurix Motors EV Analytics Dashboard** demonstrates how **realistic data modeling and Power BI analytics** can simulate the complexity of a global EV manufacturer.
-
-The project goes beyond visuals to showcase **business reasoning, financial realism, operational trade-offs, and executive-level storytelling**, making it suitable for **portfolio presentation, interviews, and professional review**.
